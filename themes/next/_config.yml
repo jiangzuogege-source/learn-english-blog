@@ -183,8 +183,8 @@ menu_settings:
 # Schemes
 #scheme: Muse
 #scheme: Mist
-scheme: Pisces
-#scheme: Gemini
+#scheme: Pisces
+scheme: Gemini
 
 
 # ---------------------------------------------------------------
@@ -202,7 +202,7 @@ site_state: true
 # Value after `||` delimiter is the name of FontAwesome icon. If icon (with or without delimiter) is not specified, globe icon will be loaded.
 social:
   GitHub: https://github.com/doobo || github
-  #E-Mail: mailto:doobo@foxmail.com || envelope
+  E-Mail: mailto:admin@5fu8.com || envelope
   GitEE: https://gitee.com/doobo || gitlab
   #Google: https://plus.google.com/yourname || google
   #Twitter: https://twitter.com/yourname || twitter
@@ -215,18 +215,18 @@ social:
 
 social_icons:
   enable: true
-  icons_only: false
+  icons_only: true
   transition: false
 
 # Blog rolls
-links_icon: link
-links_title: Links
+#links_icon: link
+#links_title: Links
 #links_layout: block
-links_layout: inline
-links:
-  Web导航: http://www.alloyteam.com/nav/
-  掘金酱: http://e.xitu.io/
-  V2EX: https://www.v2ex.com/
+#links_layout: inline
+#links:
+  #Web导航: http://www.alloyteam.com/nav/
+  #掘金酱: http://e.xitu.io/
+  #V2EX: https://www.v2ex.com/
 
 # Sidebar Avatar
 avatar:
@@ -282,7 +282,7 @@ back2top:
   # Back to top in sidebar.
   sidebar: false
   # Scroll percent label in b2t button.
-  scrollpercent: false
+  scrollpercent: true
 
 # A button to open designated chat widget in sidebar.
 # Firstly, you need enable the chat service you want to activate its sidebar button.
@@ -317,7 +317,7 @@ excerpt_description: true
 # Automatically Excerpt (Not recommend).
 # Use <!-- more --> in the post to control excerpt accurately.
 auto_excerpt:
-  enable: false
+  enable: true
   length: 150
 
 # Read more button

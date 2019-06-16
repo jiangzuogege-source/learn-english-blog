@@ -2,7 +2,7 @@
   "name": "hexo-site",
   "scripts": {
     "start": "hexo s",
-    "build": "hexo g",
+    "build": "hexo clean && hexo g",
     "test": "hext s --debug"
   },
   "version": "0.0.0",
