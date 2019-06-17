@@ -39,13 +39,29 @@
 }
 
 .post-nav-next {
-  a { padding-left: 5px; }
+  a { padding-left: 5px;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      width: 250px;
+      overflow: hidden;
+    }
 }
 
 .post-nav-prev {
   text-align: right;
-
-  a { padding-right: 5px; }
-
-  .fa { margin-left: 5px; }
+  a {
+    position: relative;
+    float: right;
+    right: 0px;
+    padding-right: 15px;
+    width: 250px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    i {
+      position: absolute;
+      right: -5px;
+      top: 0.5rem;
+    }
+  }
 }
