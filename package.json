@@ -3,7 +3,9 @@
   "scripts": {
     "start": "hexo s",
     "build": "hexo clean && hexo g",
-    "test": "hext s --debug"
+    "test": "hext s --debug",
+    "public": "hexo server -s",
+    "deploy": "hexo deploy"
   },
   "version": "0.0.0",
   "private": true,
@@ -21,5 +23,6 @@
     "hexo-renderer-marked": "^1.0.1",
     "hexo-renderer-stylus": "^0.3.3",
     "hexo-server": "^0.3.3"
-  }
+  },
+  "devDependencies": {}
 }

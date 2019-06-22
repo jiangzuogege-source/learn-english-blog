@@ -5,8 +5,8 @@
 # Site
 title: 河蟹堡的专栏
 subtitle:
-description: 河蟹堡的专栏
-keywords: 河蟹堡的专栏
+description: 集5福学习吧
+keywords: 集5福学习吧
 author: 河蟹堡
 language: zh-CN
 timezone: Asia/Shanghai
@@ -80,7 +80,7 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+
 
 feed: # RSS订阅插件
   type: atom
