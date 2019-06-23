@@ -79,6 +79,8 @@ List:
 /**{@link com.tyhd.dule.lineup.consant.RoomStatus}**/  #给参数添加类型注释
 Collections.reverse(lus); 	#List集合反转
 public transient String msg; #忽略改字段的序列化
+#排序
+nextList.sort((o1, o2) -> o2.getD30WinRatio().intValue()-o1.getD30WinRatio().intValue());
 
 BigDecimal:
     add(BigDecimal value) #加法
@@ -119,6 +121,10 @@ Calendar:
         }
         return result;
     }
+    
+fastJson:
+    HashMap<String, CountInterIdByFixIdVo> map = JSONObject.parseObject(js.trim(),new TypeReference<HashMap<String, CountInterIdByFixIdVo>>(){});
+
 ```
 
 ## Apollo使用

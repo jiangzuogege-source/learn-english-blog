@@ -15,6 +15,7 @@ categories:
 
 ## 原理/使用
 
+* {% post_link spring/spring_basic %}
 * {% post_link spring/spring-boot-application-start-analysis %}
 * {% post_link spring/spring-boot-executable-jar %}
 * {% post_link spring/spring-boot-classloader %}
