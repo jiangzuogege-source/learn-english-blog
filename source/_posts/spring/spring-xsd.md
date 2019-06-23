@@ -4,11 +4,10 @@ date: 2019-06-16 23:02:14
 tags:
  - spring
  - java
- - xml
 
 
 categories:
-  - 技术
+  - 编程
 
 ---
 

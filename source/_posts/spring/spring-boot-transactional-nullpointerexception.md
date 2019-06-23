@@ -3,12 +3,11 @@ title: 深入Spring Boot：排查@Transactional引起的NullPointerException
 date: 2019-06-16 23:02:14
 tags:
  - spring
- - spring-boot
  - java
 
 
 categories:
-  - 技术
+  - 编程
 
 ---
 

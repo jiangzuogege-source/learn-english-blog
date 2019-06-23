@@ -4,12 +4,11 @@ date: 2019-06-17 23:02:14
 sticky: 10
 tags:
  - spring
- - spring-boot
  - java
 
 
 categories:
-  - 技术
+  - 编程
 
 ---
 

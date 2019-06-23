@@ -3,12 +3,11 @@ title: 深入Spring Boot：快速集成Dubbo + Hystrix
 date: 2019-06-16 23:02:14
 tags:
  - spring
- - spring-boot
  - dubbo
  - hystrix
 
 categories:
- - 技术
+ - 编程
 ---
 
 ## 背景

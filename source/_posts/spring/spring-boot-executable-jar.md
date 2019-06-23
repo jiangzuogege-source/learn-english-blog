@@ -3,12 +3,11 @@ title: spring boot executable jar/war 原理
 date: 2019-06-16 23:02:14
 tags:
  - spring
- - spring-boot
  - java
 
 
 categories:
-  - 技术
+  - 编程
 
 ---
 
