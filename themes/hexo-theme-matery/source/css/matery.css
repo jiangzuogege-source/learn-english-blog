@@ -2186,3 +2186,20 @@ article a.a_index:hover {
     color: #34495E;
     text-decoration: none;
 }
+
+.progress-bar {
+    height: 4px;
+    position: fixed;
+    bottom: 0;
+    z-index: 300;
+    background: linear-gradient(to right, #3069bf 0%, #9d0f0f6b 100%);
+    opacity: 0.8;
+}
+
+a.a_one{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+}
