@@ -2,7 +2,7 @@
 
 <main class="content">
 
-    <%- partial('_widget/tag-cloud') %>
+    <%- partial('_widget/tag-cloud-less') %>
 
     <%
     var hashCode = function (str) {
@@ -76,6 +76,10 @@
             <% }); %>
         </div>
     </article>
+
+    <div id="tags-end">
+        <%- partial('_widget/tag-cloud') %>
+    </div>
 </main>
 
 <% if (page.total > 1) { %>
