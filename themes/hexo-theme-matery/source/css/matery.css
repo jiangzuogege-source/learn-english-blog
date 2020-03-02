@@ -2168,7 +2168,7 @@ article a.a_txt:hover {
     text-decoration: none;
 }
 
-a.a_index{
+a.a_index,#searchResult p.search-result{
     overflow: hidden;
     text-overflow: ellipsis;
     display: -webkit-box;
@@ -2204,6 +2204,14 @@ a.a_one{
     -webkit-line-clamp: 1;
 }
 
+.brand h1.post-title{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+}
+
 #tags-end .chip-container {
     margin-top: auto;
 }
@@ -2222,4 +2230,27 @@ a.a_one{
 
 #artDetail .post-cate a {
     color: #C3A;
+}
+
+
+element.style {
+}
+#artDetail .post-info .post-date {
+    color: #525f7f;
+}
+.info-break-policy {
+    margin-bottom: 8px;
+}
+
+element.style {
+}
+#artDetail .post-info .post-date {
+    color: #525f7f;
+}
+.info-break-policy {
+    margin-bottom: 8px;
+}
+
+.info-break-policy{
+         width: 100%;
 }

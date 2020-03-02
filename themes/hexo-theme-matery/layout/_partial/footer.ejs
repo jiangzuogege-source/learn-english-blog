@@ -1,4 +1,7 @@
 <footer class="page-footer bg-color">
+    <%
+        var year = new Date().getFullYear();
+    %>
     <%if(theme.music.enable&&theme.music.fixed){ %>
         <%- partial('_widget/music') %>
     <% } %>
@@ -7,7 +10,7 @@
              <span id="icp"><img src="<%- theme.jsDelivr.url %>/medias/icp.png" style="vertical-align: text-bottom;" />
                 <a href="<%- theme.icp.url %>" target="_blank"><%- theme.icp.text %></a>
             </span>&nbsp;&copy;
-            <span id="year"><%- theme.time.year %> – <span id="f_time">2020</span></span>
+            <span id="year"><%- theme.time.year %> – <span id="f_time"><%- year %></span></span>
             <a href="<%- config.url %>" target="_blank"><%- config.author %></a>
             |&nbsp;Powered by&nbsp;<a href="https://hexo.io/" target="_blank">Hexo</a>
             |&nbsp;Theme&nbsp;<a href="https://github.com/blinkfox/hexo-theme-matery" target="_blank">Matery</a>
@@ -89,6 +92,9 @@
                 </div>
             </div>
             <% } %>
+            <div style="display: none">
+                <script type="text/javascript" src="https://s4.cnzz.com/z_stat.php?id=1278650874&web_id=1278650874"></script>
+            </div>
         </div>
         <div class="col s12 m4 l4 social-link <%- socialClass %>"><%- partial('_partial/social-link') %></div>
     </div>
