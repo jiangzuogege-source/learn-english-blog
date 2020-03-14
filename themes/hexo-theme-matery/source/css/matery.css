@@ -266,7 +266,7 @@ mark {
     position: fixed;
     bottom: 0;
     z-index: 300;
-    background: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
+    background: linear-gradient(to right, #06A 0%, #C3A 100%);
     opacity: 0.8;
 }
 
@@ -1601,7 +1601,7 @@ thead {
 }
 
 .post-statis .statis .count a {
-    color: #42b983;
+    color: #06A;
 }
 
 .post-statis .statis .name {
@@ -1622,8 +1622,8 @@ thead {
     margin: 0 0.5rem;
     padding: 0;
     color: #fff;
-    border: 1px solid #0f9d58;
-    background: radial-gradient(#4cbf30, #0f9d58);
+    border: 1px solid #C3A;
+    background: radial-gradient(#06A, #C3A);
     font-size: 0.9rem;
     border-radius: 50%;
     box-shadow: 0 4px 6px rgba(50, 50, 93, .21), 0 2px 3px rgba(0, 0, 0, .1);
@@ -1866,7 +1866,7 @@ footer .copy-right {
 
 .search-result-list .search-result-title {
     font-size: 1.4rem;
-    color: #42b983;
+    color: #e96900;
 }
 
 .search-result-list li {
@@ -2253,4 +2253,8 @@ element.style {
 
 .info-break-policy{
          width: 100%;
+}
+
+.break{
+    word-break:break-all;
 }
