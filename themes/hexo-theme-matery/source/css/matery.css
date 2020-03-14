@@ -2258,3 +2258,12 @@ element.style {
 .break{
     word-break:break-all;
 }
+
+#toc-content li a{
+     overflow: hidden;
+     text-overflow: ellipsis;
+     display: -webkit-box;
+     -webkit-box-orient: vertical;
+     -webkit-line-clamp: 1;
+     word-break:break-all;
+ }
