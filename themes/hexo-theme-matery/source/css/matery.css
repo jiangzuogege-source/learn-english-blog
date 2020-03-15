@@ -875,7 +875,7 @@ header .go-back i {
 #articles {
     margin-top: 10px;
     margin-bottom: 10px;
-    overflow-x: hidden;
+    overflow: hidden;
 }
 
 article a {
