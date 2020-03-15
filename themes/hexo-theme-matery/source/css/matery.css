@@ -2260,7 +2260,7 @@ element.style {
     word-break:break-all;
 }
 
-#toc-content li a{
+#toc-content li a, h2#toc-heading-1 a{
      overflow: hidden;
      text-overflow: ellipsis;
      display: -webkit-box;
@@ -2268,3 +2268,8 @@ element.style {
      -webkit-line-clamp: 1;
      word-break:break-all;
  }
+
+.row{
+    word-wrap: break-word;
+    word-break: break-all;
+}
