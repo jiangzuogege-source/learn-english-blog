@@ -50,7 +50,7 @@ h2 {
     margin: 42px 0 18px -5px;
     font-size: 1.8rem;
     font-weight: bold;
-    line-height: 1.8rem;
+    line-height: 2.7rem; //1.5倍行距
 }
 
 h3 {
