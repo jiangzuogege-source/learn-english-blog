@@ -2260,7 +2260,7 @@ element.style {
     word-break:break-all;
 }
 
-#toc-content li a, h2#toc-heading-1 a{
+#toc-content li a{
      overflow: hidden;
      text-overflow: ellipsis;
      display: -webkit-box;
