@@ -40,4 +40,11 @@
   "url": "https://5fu8.com/api/jump.html?code=bae9dafbef73633f&type=2",
   "title": "下载看看"
 }
+, {
+  "avatar": "/medias/featureimages/12.jpg",
+  "name": "短链接",
+  "introduction": "可配置的短连接生成,简单快捷",
+  "url": "https://5fu8.com/api/link.html",
+  "title": "前去看看"
+}
 ]
