@@ -2273,3 +2273,7 @@ element.style {
     word-wrap: break-word;
     word-break: break-all;
 }
+
+article{
+    overflow: hidden;
+}

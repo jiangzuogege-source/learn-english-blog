@@ -8,7 +8,7 @@ categories:
  - Linux
 ---
 ## 安装
-```bash 编译安装 http://nginx.org/download 下载
+```bash 编译安装 https://5fu8.com/api/jump.html?code=62b1eee11a664231 下载
 wget http://nginx.org/download/nginx-1.9.9.tar.gz
 tar zxvf nginx-1.9.9.tar.gz
 #安装依赖

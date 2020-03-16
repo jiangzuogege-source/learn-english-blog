@@ -8,7 +8,7 @@ categories:
  - Linux
 ---
 ## Lets Encrypt证书
-```bash 官方地址 https://certbot.eff.org/ 网址
+```bash 官方地址 https://5fu8.com/api/jump.html?code=d454d5cdf7ec6875 网址
 #SSL域名证书获取
 wget https://dl.eff.org/certbot-auto    #下载脚本
 chmod a+x certbot-auto                  #添加执行权限

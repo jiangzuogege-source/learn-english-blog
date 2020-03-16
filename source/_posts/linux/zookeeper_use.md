@@ -8,7 +8,7 @@ categories:
  - Linux
 ---
 ## Zookeeper安装
-```bash Zookeeper http://www-eu.apache.org/dist/zookeeper/ 下载地址
+```bash Zookeeper https://5fu8.com/api/jump.html?code=9aaf983d72f1369f 下载地址
 vi conf/zoo.cfg	
 #单节点配置
     dataLogDir=/tmp/zookeeper

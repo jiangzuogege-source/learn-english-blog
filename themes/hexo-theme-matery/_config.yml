@@ -124,13 +124,13 @@ indexbtn:
   enable: true
   name: 码云
   icon: fab fa-github-alt
-  url: https://gitee.com/doobo
+  url: https://5fu8.com/api/jump.html?code=eb66432f2b88c0c0
 
 # The configurations of the second line of home banner
 # icon/button will not show up if you leave the corresponding socialLink empty
 # 首页 banner 中的第二行个人信息配置，留空即不启用
 socialLink:
-  github:  https://gitee.com/doobo
+  github:  https://5fu8.com/api/jump.html?code=eb66432f2b88c0c0
   email: admin@5fu8.com
   facebook: # https://www.facebook.com/xxx
   twitter: # https://twitter.com/xxx
@@ -213,18 +213,18 @@ myProjects:
     OkHttpTools:
       icon: fas fa-file-alt
       iconBackground: 'linear-gradient(to bottom right, #66BB6A 0%, #81C784 100%)'
-      url: https://gitee.com/doobo/OkHttpTools
+      url: https://5fu8.com/api/jump.html?code=c7d5027cdd485eb2
       desc: POST请求、GET请求、上传文件、下载文件、Ws/Wss请求工具
     proxy:
         icon: fas fa-database
         iconBackground: 'linear-gradient(to bottom right, #F06292 0%, #EF5350 100%)'
-        url: https://github.com/doobo/proxy
+        url: https://5fu8.com/api/jump.html?code=df2e647dc66c03e7
         desc: 常用网络工,一些简单的Mac、Windows、Android的客户端工具,网络代理工具
     apollo-client:
         icon: fas fa-file-alt
         iconBackground: 'linear-gradient(to bottom right, #29B6F6 0%, #1E88E5 100%)'
-        url: https://github.com/doobo/apollo-client
-        desc: 配置中心读取工具,基于阿波罗客户端扩容,简单支持http授权验证
+        url: https://5fu8.com/api/jump.html?code=b99f285c6fb453a2
+        desc: 在线转pdf，可以转换ppt、txt、pdf的首页提取
 
 # config my skills informations in about page.
 # If you don't want to display this `My Skills` content, you can deactivate or delete this configuration.
@@ -317,7 +317,7 @@ valine:
 # 配置是否在 header 中显示 fork me on github 的图标，默认为true，你可以修改为你的仓库地址.
 githubLink:
   enable: true
-  url: https://gitee.com/doobo/OkHttpTools
+  url: https://5fu8.com/api/jump.html?code=c7d5027cdd485eb2
   title: Fork Me
 
 # The password verification feature of read post. To use this feature,
