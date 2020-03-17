@@ -66,8 +66,8 @@ cover:
 dream:
   enable: true
   showTitle: true
-  title: 我的梦想
-  text: 不是每个人都应该像我这样去建造一座水晶大教堂，但是每个人都应该拥有自己的梦想，设计自己的梦想，追求自己的梦想，实现自己的梦想。梦想是生命的灵魂，是心灵的灯塔，是引导人走向成功的信仰。有了崇高的梦想，只要矢志不渝地追求，梦想就会成为现实，奋斗就会变成壮举，生命就会创造奇迹。——罗伯·舒乐
+  title: 博客寄语
+  text: 余生会经过许多的路口，从而被琐事所纠缠着，是向左向右，还是向前向后，会难以取舍。这时所需的是断然的舍弃与明智的抉择，唯一会限制的，只是我们的决心，仅此而已。生命于我们，只是沧海一粟，然而，却承载了太多的情非得已。聚散离合，痛苦欢笑，呐喊寻觅，因为没有人知道那个最终的谜底，所以，我们唯一的选择，必须是：向前，笑看风，笑对雨。
 
 # Whether to display the musics.
 # 是否在首页显示音乐.
@@ -130,7 +130,7 @@ indexbtn:
 # icon/button will not show up if you leave the corresponding socialLink empty
 # 首页 banner 中的第二行个人信息配置，留空即不启用
 socialLink:
-  github:  https://5fu8.com/api/jump.html?code=eb66432f2b88c0c0
+  github: https://5fu8.com/api/jump.html?code=eb66432f2b88c0c0
   email: admin@5fu8.com
   facebook: # https://www.facebook.com/xxx
   twitter: # https://twitter.com/xxx
@@ -487,7 +487,7 @@ addthis:
 # 打字效果副标题.
 # 如果有符号 ‘ ，请在 ’ 前面加上 \
 subtitle:
-  enable: true
+  enable: false
   loop: true # 是否循环
   showCursor: true # 是否显示光标
   startDelay: 300 # 开始延迟

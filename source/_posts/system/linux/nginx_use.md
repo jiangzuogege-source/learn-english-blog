@@ -1,7 +1,7 @@
 ---
 title: Nginx简单使用
 copyright: false
-date: 2019-06-23 10:39:00
+date: 2019-07-23 10:39:00
 tags: 
  - nginx
 categories: 
