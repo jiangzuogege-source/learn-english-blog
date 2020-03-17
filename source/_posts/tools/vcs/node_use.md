@@ -8,7 +8,7 @@ tags:
  - webpack
  - bower
 categories: 
- - VCS
+ - 工具
 ---
 ## 安装Node.Js
 ```bash 配置使用 https://nodejs.org 官网

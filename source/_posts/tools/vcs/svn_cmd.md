@@ -5,7 +5,7 @@ date: 2018-04-22 16:54:00
 tags: 
  - svn
 categories: 
- - VCS
+ - 工具
 ---
  ## 将文件checkout到本地目录
 ```bash

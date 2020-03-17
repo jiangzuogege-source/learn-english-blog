@@ -5,7 +5,7 @@ date: 2019-04-17 12:49:00
 tags: 
  - gradle
 categories: 
- - VCS
+ - 工具
 ---
 ## Gradle下载配置
 ```bash

@@ -5,7 +5,7 @@ date: 2019-05-23 12:58:00
 tags: 
  - maven
 categories: 
- - VCS
+ - 工具
 ---
 ## 安装配置
 ```bash

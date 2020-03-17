@@ -5,7 +5,7 @@ date: 2018-03-18 01:02:14
 tags: 
  - git
 categories: 
- - VCS
+ - 工具
 ---
 ## 新建空白分支，并提交到远程仓库
 ``` bash
