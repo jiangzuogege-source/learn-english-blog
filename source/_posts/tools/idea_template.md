@@ -1,7 +1,7 @@
 ---
 title: Idea模板语法
 copyright: false
-date: 2019-06-22 10:31:00
+date: 2019-01-22 10:31:00
 tags: 
  - idea
 categories: 

@@ -1,6 +1,6 @@
 ---
 title: 正确实现用spring扫描自定义的annotation
-date: 2019-06-16 23:02:14
+date: 2018-11-09 23:02:14
 tags:
  - java
  - spring

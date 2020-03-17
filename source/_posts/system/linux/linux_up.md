@@ -3,9 +3,9 @@ title: Linux提升
 copyright: false
 date: 2019-06-22 16:29:00
 tags: 
- - bash
+ - linux
 categories: 
- - Linux
+ - 系统
 ---
  ## 上传下载文件
 ```bash

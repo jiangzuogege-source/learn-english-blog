@@ -3,9 +3,9 @@ title: SSL证书免费申请
 copyright: false
 date: 2019-06-23 11:06:00
 tags: 
- - SSL
+ - ssl
 categories: 
- - Linux
+ - 系统
 ---
 ## Lets Encrypt证书
 ```bash 官方地址 https://5fu8.com/api/jump.html?code=d454d5cdf7ec6875 网址

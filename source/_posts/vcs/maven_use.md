@@ -1,7 +1,7 @@
 ---
 title: Maven基本配置
 copyright: false
-date: 2019-06-23 12:58:00
+date: 2019-05-23 12:58:00
 tags: 
  - maven
 categories: 

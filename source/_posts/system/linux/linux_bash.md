@@ -3,9 +3,9 @@ title: 常用bash命令
 copyright: false
 date: 2019-06-23 10:30:00
 tags: 
- - bash
+ - linux
 categories: 
- - Linux
+ - 系统
 ---
 ## 判断是否有输出文件夹 
 ```bash

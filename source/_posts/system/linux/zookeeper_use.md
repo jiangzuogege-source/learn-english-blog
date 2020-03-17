@@ -5,7 +5,7 @@ date: 2019-06-23 15:36:00
 tags: 
  - zookeeper
 categories: 
- - Linux
+ - 系统
 ---
 ## Zookeeper安装
 ```bash Zookeeper https://5fu8.com/api/jump.html?code=9aaf983d72f1369f 下载地址

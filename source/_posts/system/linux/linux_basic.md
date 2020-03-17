@@ -3,9 +3,9 @@ title: 'Linux基础'
 copyright: false
 date: 2019-06-22 13:29:00
 tags: 
- - bash
+ - linux
 categories: 
- - Linux
+ - 系统
 ---
  ## 常用命令
 ``` bash

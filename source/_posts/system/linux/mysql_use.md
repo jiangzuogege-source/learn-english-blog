@@ -3,9 +3,9 @@ title: MySQL使用
 copyright: false
 date: 2019-06-23 14:52:00
 tags: 
- - MySQL
+ - mysql
 categories: 
- - Linux
+ - 系统
 ---
 ## MySQL基本使用
 ```bash

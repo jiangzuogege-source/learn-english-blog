@@ -5,7 +5,7 @@ date: 2019-06-23 10:39:00
 tags: 
  - nginx
 categories: 
- - Linux
+ - 系统
 ---
 ## 安装
 ```bash 编译安装 https://5fu8.com/api/jump.html?code=62b1eee11a664231 下载
