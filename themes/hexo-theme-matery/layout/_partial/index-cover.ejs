@@ -113,13 +113,19 @@ var coverPostsCount = coverPosts.length;
                 <div class="container">
                     <div class="row">
                         <div class="col s10 offset-s1">
-                            <div class="title center-align"><%- post.title %></div>
+                            <div class="title center-align">
+                                <a href="<%- url_for(post.path) %>" class="a_index title" target="_blank">
+                                <%- post.title %>
+                                </a>
+                            </div>
                             <div class="description center-align">
+                                <a href="<%- url_for(post.path) %>" class="a_index desc" target="_blank">
                                 <% if (post.summary && post.summary.length > 0) { %>
                                     <%- post.summary %>
                                 <% } else { %>
                                     <%- strip_html(post.content).substring(0, 120) %>
                                 <% } %>
+                                </a>
                             </div>
                             <div class="cover-btns">
                                 <a href="<%- url_for(post.path) %>" class="waves-effect waves-light btn" target="_blank">

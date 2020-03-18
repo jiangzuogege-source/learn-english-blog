@@ -65,7 +65,7 @@
             <article class="cd-timeline-content" data-aos="fade-up">
                 <div class="article col s12 m6">
                     <div class="card">
-                        <a href="<%- url_for(post.path) %>">
+                        <a href="<%- url_for(post.path) %>"  target="_blank">
                             <div class="card-image">
                                 <% if (post.img) { %>
                                 <img src="<%= post.img %>" class="responsive-img" alt="<%- post.title %>">
@@ -81,7 +81,7 @@
                             </div>
                         </a>
                         <div class="card-content article-content">
-                            <a class="a_index" href="<%- url_for(post.path) %>">
+                            <a class="a_index" href="<%- url_for(post.path) %>" target="_blank">
                                 <div class="summary block-with-text">
                                     <% if (post.summary && post.summary.length > 0) { %>
                                         <%- post.summary %>

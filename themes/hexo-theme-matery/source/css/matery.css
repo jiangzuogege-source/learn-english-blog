@@ -2277,3 +2277,11 @@ element.style {
 article{
     overflow: hidden;
 }
+
+.a_index.title{
+    color: #FFF;
+}
+
+.a_index.desc{
+    color: #EEE;
+}

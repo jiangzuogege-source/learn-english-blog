@@ -130,14 +130,14 @@ indexbtn:
 # icon/button will not show up if you leave the corresponding socialLink empty
 # 首页 banner 中的第二行个人信息配置，留空即不启用
 socialLink:
-  github: https://5fu8.com/api/jump.html?code=eb66432f2b88c0c0
-  email: admin@5fu8.com
+  github: #https://5fu8.com/api/jump.html?code=eb66432f2b88c0c0
+  email: #admin@5fu8.com
   facebook: # https://www.facebook.com/xxx
   twitter: # https://twitter.com/xxx
-  qq: 1280366218
+  qq: #1280366218
   weibo: # https://weibo.com/xxx
   zhihu: # https://www.zhihu.com/xxx
-  rss: true # true、false
+  rss: false # true、false
 
 # Whether to activate the Post TOC, and Configure which title types are supported by TOC support.
 # You can add `toc: false` to the Front-matter of a post to turn off the TOC.

@@ -64,9 +64,10 @@
                         <% }); %>
                     <% } %>
                 </div>
-                <a href="<%- url_for(post.path) %>">
+                <a href="<%- url_for(post.path) %>" target="_blank">
                     <h3 class="post-title"><%- post.title %></h3>
                 </a>
+                <a class="a_index" href="<%- url_for(post.path) %>" target="_blank">
                 <p class="post-description">
                     <% if (post.summary && post.summary.length > 0) { %>
                         <%- post.summary %>
@@ -74,6 +75,7 @@
                         <%- strip_html(post.content).substring(0, 70) %>
                     <% } %>
                 </p>
+                </a>
                 <a href="<%- url_for(post.path) %>" class="read-more btn waves-effect waves-light" style="background: <%- bgColor %>" target="_blank">
                     <i class="icon far fa-eye fa-fw"></i><%- __('readMore') %>
                 </a>
@@ -106,10 +108,12 @@
                         <% }); %>
                     <% } %>
                 </div>
-                <a href="<%- url_for(post.path) %>">
+                <a href="<%- url_for(post.path) %>" target="_blank">
                     <h3 class="post-title"><%- post.title %></h3>
                 </a>
-                <p class="post-description"><%- description %></p>
+                <a class="a_index" href="<%- url_for(post.path) %>" target="_blank">
+                    <p class="post-description"><%- description %></p>
+                </a>
                 <a href="<%- url_for(post.path) %>" class="read-more btn waves-effect waves-light" style="background: <%- bgColor %>" target="_blank">
                     <i class="icon far fa-eye fa-fw"></i><%- __('readMore') %>
                 </a>
