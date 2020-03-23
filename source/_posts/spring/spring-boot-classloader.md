@@ -1,5 +1,5 @@
 ---
-title: 深入Spring Boot：ClassLoader的继承关系和影响
+title: ClassLoader的继承关系和影响
 date: 2018-07-20 23:02:14
 tags:
  - spring

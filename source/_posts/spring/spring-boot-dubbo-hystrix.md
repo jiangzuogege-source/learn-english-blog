@@ -1,5 +1,5 @@
 ---
-title: 深入Spring Boot：快速集成Dubbo + Hystrix
+title: 快速集成Dubbo + Hystrix
 date: 2018-09-10 23:02:14
 tags:
  - spring

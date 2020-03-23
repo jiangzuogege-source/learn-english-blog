@@ -1,5 +1,5 @@
 ---
-title: 深入Spring Boot：显式配置 @EnableWebMvc 导致静态资源访问失败
+title: 显式配置 @EnableWebMvc 导致静态资源访问失败
 date: 2018-09-12 23:02:14
 tags:
  - spring

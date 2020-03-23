@@ -1,5 +1,5 @@
 ---
-title: 深入Spring Boot：编写兼容Spring Boot1和Spring Boot2的Starter
+title: 编写兼容Spring Boot1和Spring Boot2的Starter
 date: 2018-09-29 23:02:14
 tags:
  - spring

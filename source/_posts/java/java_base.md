@@ -1,7 +1,8 @@
 ---
-title: Java基础
+title: RocketMQ和Java新特性
 copyright: false
 date: 2017-09-29 12:42:00
+keywords: Dubbo,RocketMQ,Java新特性,java
 tags: 
  - java
 categories: 

@@ -1,5 +1,5 @@
 ---
-title: 为什么在Spring的配置里，最好不要配置xsd文件的版本号
+title: 在Spring的配置里，最好不要配置xsd文件的版本号
 date: 2018-11-22 23:02:14
 tags:
  - spring

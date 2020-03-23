@@ -1,5 +1,5 @@
 ---
-title: 深入Spring Boot：排查@Transactional引起的NullPointerException
+title: 排查@Transactional引起的NullPointerException
 date: 2018-10-12 23:02:14
 tags:
  - spring

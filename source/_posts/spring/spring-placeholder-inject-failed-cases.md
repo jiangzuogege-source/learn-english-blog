@@ -1,4 +1,4 @@
-﻿title: 深入Spring Boot：那些注入不了的Spring占位符（${}表达式）
+﻿title: 那些注入不了的Spring占位符（${}表达式）
 date: 2018-10-11 23:02:14
 tags:
  - spring
