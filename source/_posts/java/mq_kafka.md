@@ -3,7 +3,7 @@ title: Kafka和mq的差异,RabbitMQ和RocketMQ
 copyright: false
 date: 2020-03-23 14:22:00
 top: false
-cover: true
+cover: false
 keywords: Rabbit,Rocket,mq,Kafka和mq的差异
 #summary: 内容作为摘要
 #coverImg: /images/1.jpg

@@ -2,7 +2,7 @@
 title: 悲观锁与乐观锁,分布式锁的几种实现
 date: 2020-03-15 16:12:00
 top: false
-cover: true
+cover: false
 keywords: 悲观锁,乐观锁,CAS,版本号机制,分布式锁
 #summary: 内容作为摘要
 #coverImg: /images/1.jpg

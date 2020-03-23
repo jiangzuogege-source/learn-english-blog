@@ -2,7 +2,7 @@
 title: SpringCloud的5大组件,组件基本介绍
 date: 2020-03-23 17:32:00
 top: false
-cover: true
+cover: false
 keywords: SpringCloud的5大组件,组件基本介绍,spring,springboot,Netflix,Hystrix,Eureka,Ribbon
 #summary: 内容作为摘要
 #coverImg: /images/1.jpg

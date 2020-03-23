@@ -2,7 +2,7 @@
 title: HashMap的结构,1.7和1.8的区别
 date: 2020-03-23 16:41:00
 top: false
-cover: true
+cover: false
 keywords: HashMap的结构,jdk1.8,hashmap的区别,map,红黑树
 #summary: 内容作为摘要
 #coverImg: /images/1.jpg
