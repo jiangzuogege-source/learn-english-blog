@@ -3,7 +3,6 @@ title: windows系统安装总结
 copyright: false
 date: 2020-03-17 20:44:00
 top: true
-cover: true
 keywords: Windows安装,激活系统,自动更新关闭,多用户远程同时登陆,U盘PE安装系统
 summary: Windows安装,激活系统,自动更新关闭,多用户远程同时登陆,U盘PE安装系统,本地硬盘安装,光盘安装系统
 #coverImg: /images/1.jpg

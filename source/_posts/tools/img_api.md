@@ -1,6 +1,7 @@
 ---
 title: 超简API图床
 date: 2020-03-22 17:33:00
+cover: true
 keywords: 免费图床,图床api,免费cdn,动态配置,搜狗CDN,sm.ms,图片上传API接口,图片
 tags:
  - 图床

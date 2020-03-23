@@ -6,19 +6,40 @@
   "title": "前去看看"
 },
 {
-  "avatar": "/medias/featureimages/10.jpg",
-  "name": "SO导航",
-  "introduction": "不能Google,玩腻Baidu,不如试试SO",
-  "url": "https://5fu8.com/api/jump.html?code=6d87b8e1526afc3a&type=2",
-  "title": "前去试试"
-},
-{
   "avatar": "/medias/featureimages/22.jpg",
   "name": "2折起",
-  "introduction": "平凡的脚步也可以走出伟大的行程",
+  "introduction": "阿里云永久折扣页,75块一年的云服务器",
   "url": "https://5fu8.com/api/jump.html?code=6279e380b9f01994&type=2",
   "title": "前去看看"
+},
+{
+    "avatar": "/medias/featureimages/5.jpg",
+    "name": "1折起",
+    "introduction": "阿里云采购季，云服务器74元/年起，低至1折",
+    "url": "https://5fu8.com/api/jump.html?code=de5042349ac3d82f&type=2",
+    "title": "前去看看"
 }
+, {
+  "avatar": "/medias/featureimages/12.jpg",
+  "name": "短链接",
+  "introduction": "可配置的短连接生成,简单快捷",
+  "url": "https://5fu8.com/api/link.html",
+  "title": "前去看看"
+}
+, {
+  "avatar": "/medias/featureimages/15.jpg",
+  "name": "图床API",
+  "introduction": "免费的图片上传API,支持搜狗图片接口,SM.MS上传",
+  "url": "https://5fu8.com/api/jump.html?code=7e8c45cc65819824&type=1&seconds=5",
+  "title": "前去看看"
+}
+, {
+    "avatar": "/medias/featureimages/10.jpg",
+    "name": "SO导航",
+    "introduction": "不能Google,玩腻Baidu,不如试试SO",
+    "url": "https://5fu8.com/api/jump.html?code=6d87b8e1526afc3a&type=2",
+    "title": "前去试试"
+  }
 , {
   "avatar": "/medias/featureimages/3.jpg",
   "name": "浏览器",
@@ -40,11 +61,5 @@
   "url": "https://5fu8.com/api/jump.html?code=bae9dafbef73633f&type=2",
   "title": "下载看看"
 }
-, {
-  "avatar": "/medias/featureimages/12.jpg",
-  "name": "短链接",
-  "introduction": "可配置的短连接生成,简单快捷",
-  "url": "https://5fu8.com/api/link.html",
-  "title": "前去看看"
-}
+
 ]
