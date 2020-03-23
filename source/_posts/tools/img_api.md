@@ -61,6 +61,8 @@ categories:
     + msg：返回接口调用的具体说明
     + img：失败返回null，成功返回图片的图床网址
     ![上传图片示例](https://i.loli.net/2020/03/20/L7G3jyzk1cXVKPT.png)
+
+
 ## 搜狗的代理Nginx配置示例
 ```
 upstream image-server {
@@ -201,8 +203,10 @@ server{
         }
 }
 ```
+
 ## 注意
 因为该系统为无数据库模式，所以每次重启服务器配置都会丢失,尽量使用启动命令来配置token,这样重启也不会有问题
+
 ## 版权信息
 超简Api图床遵循 MIT License 开源协议发布，并提供免费使用。
 
