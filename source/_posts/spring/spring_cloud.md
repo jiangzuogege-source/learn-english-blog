@@ -36,8 +36,15 @@ Ribbon中还包括以下功能：
 断路器可以防止一个应用程序多次试图执行一个操作，即很可能失败，允许它继续而不等待故障恢复或者浪费 CPU 周期，而它确定该故障是持久的。断路器模式也使应用程序能够检测故障是否已经解决。如果问题似乎已经得到纠正​​，应用程序可以尝试调用操作。
 断路器增加了稳定性和灵活性，以一个系统，提供稳定性，而系统从故障中恢复，并尽量减少此故障的对性能的影响。它可以帮助快速地拒绝对一个操作，即很可能失败，而不是等待操作超时（或者不返回）的请求，以保持系统的响应时间。如果断路器提高每次改变状态的时间的事件，该信息可以被用来监测由断路器保护系统的部件的健康状况，或以提醒管理员当断路器跳闸，以在打开状态。
 
+
 ## 服务网关——Netflix Zuul
 类似nginx，反向代理的功能，不过netflix自己增加了一些配合其他组件的特性。
  
 ## 分布式配置——Spring Cloud Config 
 这个还是静态的，得配合Spring Cloud Bus实现动态的配置更新。
+
+### spring cloud自动刷新配置的原理
+在需要动态配置属性的类上添加注解@RefreshScope表示此类Scope为refresh类型的,配置刷新基本流程就是再起一个SpringBoot环境，加载最新配置，与目前环境配置对应，筛选出变化后的属性，将scope类型为refresh的bean销毁。等到下一次获取时bean时重新装配bean，这样最新配置就注入ok了。
+刷新不是我之前想象的直接调用config获取最新配置的，而是通过重新创建一个SpringBoot环境（非WEB），等到SpringBoot环境启动时就相当于重新启动了一个非web版的服务器。此时config会自动加载到最新的配置。这个过程类似于启动服务器。等到服务器启动成功后，获取到最新的配置，然后跟原来的配置进行对比，返回修改过的key值。
+获取到修改后的配置后，发出EnvironmentChangeEvent事件，ConfigurationPropertiesRebinder监听了此事件，调用rebind方法进行配置重新加载。
+> this.scope.refreshAll();首先销毁scope为refresh的bean。然后发出RefreshScopeRefreshedEvent事件，通知bean生命周期已经变更，已知两个类EurekaDiscoveryClientConfiguration.EurekaClientConfigurationRefresher接收了此事件，EurekaClientConfigurationRefresher接收到此事件后，进行对eureka服务器重连的操作。
