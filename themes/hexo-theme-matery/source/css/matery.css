@@ -2285,3 +2285,26 @@ article{
 .a_index.desc{
     color: #EEE;
 }
+
+.lg-img-wrap,.lg-thumb,.lg-inner{
+    background: #FFF;
+}
+
+.lg-toolbar .lg-icon,#lg-counter,.lg-actions .lg-next, .lg-actions .lg-prev,.lg-outer .lg-toogle-thumb{
+    color: #FFF;
+}
+
+#toc-content .is-active-link{
+    color: red !important;
+}
+
+#toc-content .toc-link:hover {
+    color: red !important;
+}
+.row.tag-cate{
+    margin-bottom: auto;
+}
+
+#articleContent h2{
+    margin: 22px 0 18px -5px;
+}
