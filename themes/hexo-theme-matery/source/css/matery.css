@@ -2308,3 +2308,7 @@ article{
 #articleContent h2{
     margin: 22px 0 18px -5px;
 }
+
+#articleContent h4{
+    line-height: 2.2rem;
+}
