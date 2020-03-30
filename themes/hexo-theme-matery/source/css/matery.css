@@ -2305,7 +2305,7 @@ article{
     margin-bottom: auto;
 }
 
-#articleContent h2{
+#articleContent h2,#articleContent h3,#articleContent h4{
     margin: 22px 0 18px -5px;
 }
 

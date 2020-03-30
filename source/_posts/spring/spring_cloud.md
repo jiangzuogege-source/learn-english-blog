@@ -2,7 +2,7 @@
 title: SpringCloud的5大组件,组件基本介绍
 date: 2020-03-23 17:32:00
 top: false
-cover: false
+cover: true
 keywords: SpringCloud的5大组件,组件基本介绍,spring,springboot,Netflix,Hystrix,Eureka,Ribbon
 #summary: 内容作为摘要
 #coverImg: /images/1.jpg
@@ -18,8 +18,54 @@ categories:
 ## 服务发现——Netflix Eureka
 一个RESTful服务，用来定位运行在AWS地区（Region）中的中间层服务。由两个组件组成：Eureka服务器和Eureka客户端。Eureka服务器用作服务注册服务器。Eureka客户端是一个java客户端，用来简化与服务器的交互、作为轮询负载均衡器，并提供服务的故障切换支持。Netflix在其生产环境中使用的是另外的客户端，它提供基于流量、资源利用率以及出错状态的加权负载均衡。
  
-## Feign
- 基于动态代理机制，根据注解和选择的机器，拼接请求 url 地址，发起请求。
+## 动态代理-Feign
+基于动态代理机制，根据注解和选择的机器，拼接请求 url 地址，发起请求。通过@EnableFeignClients和@FeignClient(value = "***")发起服务请求
+Feign自定义处理返回的异常
+```java
+@Configuration
+public class StashErrorDecoder implements ErrorDecoder {
+
+    @Override
+    public Exception decode(String methodKey, Response response) {
+        if (response.status() >= 400 && response.status() <= 499) {
+            //这里是给出的自定义异常
+            return new StashClientException(
+                    response.status(),
+                    response.reason()
+            );
+        }
+        if (response.status() >= 500 && response.status() <= 599) {
+            //这里是给出的自定义异常
+            return new StashServerException(
+                    response.status(),
+                    response.reason()
+            );
+        }
+        //这里是其他状态码处理方法
+        return errorStatus(methodKey, response);
+    }
+}
+``` 
+### Feign原理简述
+* 启动时，程序会进行包扫描，扫描所有包下所有@FeignClient注解的类，并将这些类注入到spring的IOC容器中。当定义的Feign中的接口被调用时，通过JDK的动态代理来生成RequestTemplate。
+* RequestTemplate中包含请求的所有信息，如请求参数，请求URL等。
+* RequestTemplate生成Request，然后将Request交给client处理，这个client默认是JDK的HTTPUrlConnection，也可以是OKhttp、Apache的HTTPClient等。
+* 最后client封装成LoadBaLanceClient，结合ribbon负载均衡地发起调用。
+
+Feign底层默认是使用jdk中的HttpURLConnection发送HTTP请求，feign也提供了OKhttp来发送请求，具体配置如下：
+```yaml
+feign:
+  client:
+    config:
+      default:
+        connectTimeout: 5000
+        readTimeout: 5000
+        loggerLevel: basic
+  okhttp:
+    enabled: true
+  hystrix:
+    enabled: true
+```
  
 ## 客服端负载均衡——Netflix Ribbon
 Ribbon客户端组件提供一系列完善的配置选项，比如连接超时、重试、重试算法等。Ribbon内置可插拔、可定制的负载均衡组件。下面是用到的一些负载均衡策略：
@@ -41,13 +87,28 @@ Ribbon中还包括以下功能：
 提供线程池，不同的服务走不同的线程池，实现了不同服务调用的隔离，避免了服务雪崩的问题。
 断路器可以防止一个应用程序多次试图执行一个操作，即很可能失败，允许它继续而不等待故障恢复或者浪费 CPU 周期，而它确定该故障是持久的。断路器模式也使应用程序能够检测故障是否已经解决。如果问题似乎已经得到纠正​​，应用程序可以尝试调用操作。
 断路器增加了稳定性和灵活性，以一个系统，提供稳定性，而系统从故障中恢复，并尽量减少此故障的对性能的影响。它可以帮助快速地拒绝对一个操作，即很可能失败，而不是等待操作超时（或者不返回）的请求，以保持系统的响应时间。如果断路器提高每次改变状态的时间的事件，该信息可以被用来监测由断路器保护系统的部件的健康状况，或以提醒管理员当断路器跳闸，以在打开状态。
-### 防雪崩利器
-具备服务降级，服务熔断，依赖隔离，监控（Hystrix Dashboard）,优先核心服务，非核心服务不可用或弱可用。通过HystrixCommand注解指定。fallbackMethod(回退函数)中具体实现降级逻辑。
 
+### Hystrix解决级联故障/防止服务雪崩
 当一个服务调用另一个服务由于网络原因或自身原因出现问题，调用者就会等待被调用者的响应 当更多的服务请求到这些资源导致更多的请求等待，发生连锁效应（雪崩效应）
-* 断路器完全打开状态:一段时间内 达到一定的次数无法调用 并且多次监测没有恢复的迹象 断路器完全打开 那么下次请求就不会请求到该服务
-* 半开:短时间内 有恢复迹象 断路器会将部分请求发给该服务，正常调用时 断路器关闭
-* 关闭：当服务一直处于正常状态 能正常调用
+* Hystrix将请求的逻辑进行封装，相关逻辑会在独立的线程中执行
+* Hystrix有自动超时策略，如果外部请求超过阈值，Hystrix会以超时来处理
+* Hystrix会为每个依赖维护一个线程池，当线程满载，不会进行线程排队，会直接终止操作
+* Hystrix有熔断机制： 在依赖服务失效比例超过阈值时，手动或者自动地切断服务一段时间
+
+### Hystrix工作原理
+* 创建HystrixCommand 或者 HystrixObservableCommand 对象
+* 执行命令execute()、queue()、observe()、toObservable()
+* 如果请求结果缓存这个特性被启用，并且缓存命中，则缓存的回应会立即通过一个Observable对象的形式返回
+* 检查熔断器状态，确定请求线路是否是开路，如果请求线路是开路，Hystrix将不会执行这个命令，而是直接执行getFallback
+* 如果和当前需要执行的命令相关联的线程池和请求队列，Hystrix将不会执行这个命令，而是直接执行getFallback
+* 执行HystrixCommand.run()或HystrixObservableCommand.construct()，如果这两个方法执行超时或者执行失败，则执行getFallback()
+* Hystrix 会将请求成功，失败，被拒绝或超时信息报告给熔断器，熔断器维护一些用于统计数据用的计数器。
+
+这些计数器产生的统计数据使得熔断器在特定的时刻，能短路某个依赖服务的后续请求，直到恢复期结束，若恢复期结束根据统计数据熔断器判定线路仍然未恢复健康，熔断器会再次关闭线路。
+
+> 断路器完全打开状态:一段时间内 达到一定的次数无法调用 并且多次监测没有恢复的迹象 断路器完全打开 那么下次请求就不会请求到该服务
+> 半开:短时间内 有恢复迹象 断路器会将部分请求发给该服务，正常调用时 断路器关闭
+> 关闭：当服务一直处于正常状态 能正常调用
 
 ## 服务网关——Netflix Zuul
 类似nginx，反向代理的功能，不过netflix自己增加了一些配合其他组件的特性。网关管理，由 Zuul 网关转发请求给对应的服务。
@@ -56,7 +117,7 @@ Ribbon中还包括以下功能：
 这个还是静态的，得配合Spring Cloud Bus实现动态的配置更新。
 在分布式系统中，由于服务数量巨多，为了方便服务配置文件统一管理，实时更新，所以需要分布式配置中心组件。在Spring Cloud中，有分布式配置中心组件spring cloud config ，它支持配置服务放在配置服务的内存中（即本地），也支持放在远程Git仓库中。在spring cloud config 组件中，分两个角色，一是config server，二是config client。
 
-### spring cloud自动刷新配置的原理
+### Spring Cloud自动刷新配置的原理
 在需要动态配置属性的类上添加注解@RefreshScope表示此类Scope为refresh类型的,配置刷新基本流程就是再起一个SpringBoot环境，加载最新配置，与目前环境配置对应，筛选出变化后的属性，将scope类型为refresh的bean销毁。等到下一次获取时bean时重新装配bean，这样最新配置就注入ok了。
 刷新不是我之前想象的直接调用config获取最新配置的，而是通过重新创建一个SpringBoot环境（非WEB），等到SpringBoot环境启动时就相当于重新启动了一个非web版的服务器。此时config会自动加载到最新的配置。这个过程类似于启动服务器。等到服务器启动成功后，获取到最新的配置，然后跟原来的配置进行对比，返回修改过的key值。
 获取到修改后的配置后，发出EnvironmentChangeEvent事件，ConfigurationPropertiesRebinder监听了此事件，调用rebind方法进行配置重新加载。
@@ -73,9 +134,11 @@ Ribbon和Feign都是调用其他服务的，但方式不同
 * 调用方式不同，Ribbon需要自己构建http请求，模拟http请求然后使用RestTemplate发送给其他服务，步骤相当繁琐。Feign需要将调用的方法定义成抽象方法即可
 
 ## SpringCloud和Dubbo 
-SpringCloud和Dubbo都是现在主流的微服务架构，SpringCloud是Apache旗下的Spring体系下的微服务解决方案，Dubbo是阿里系的分布式服务治理框架
-从技术维度上,其实SpringCloud远远的超过Dubbo,Dubbo本身只是实现了服务治理,而SpringCloud现在以及有21个子项目以后还会更多
-服务的调用方式Dubbo使用的是RPC远程调用,而SpringCloud使用的是 Rest API,其实更符合微服务官方的定义；服务网关,Dubbo并没有本身的实现,只能通过其他第三方技术的整合,而SpringCloud有Zuul路由网关,作为路由服务器,进行消费者的请求分发,SpringCloud还支持断路器,与git完美集成分布式配置文件支持版本控制,事务总线实现配置文件的更新与服务自动装配等等一系列的微服务架构要素
+* SpringCloud和Dubbo都是现在主流的微服务架构，SpringCloud是Apache旗下的Spring体系下的微服务解决方案，Dubbo是阿里系的分布式服务治理框架
+* 从技术维度上,其实SpringCloud远远的超过Dubbo,Dubbo本身只是实现了服务治理,而SpringCloud现在以及有21个子项目以后还会更多
+* 服务的调用方式Dubbo使用的是RPC远程调用,而SpringCloud使用的是 Rest API,其实更符合微服务官方的定义；
+* 服务网关,Dubbo并没有本身的实现,只能通过其他第三方技术的整合,而SpringCloud有Zuul路由网关
+* 作为路由服务器,进行消费者的请求分发,SpringCloud还支持断路器,与git完美集成分布式配置文件支持版本控制,事务总线实现配置文件的更新与服务自动装配等等一系列的微服务架构要素
 
 ### Rest和RPC对比
 其实如果仔细阅读过微服务提出者马丁福勒的论文的话可以发现其定义的服务间通信机制就是Http Rest

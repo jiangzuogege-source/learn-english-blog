@@ -2,8 +2,8 @@
 title: 'Git的常用命令行'
 copyright: false
 date: 2018-03-18 01:02:14
-top: true
-cover: true
+top: false
+cover: false
 tags: 
  - git
 categories: 
