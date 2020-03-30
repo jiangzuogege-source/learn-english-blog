@@ -64,7 +64,7 @@ categories:
 
 
 ## 搜狗的代理Nginx配置示例
-```
+```bash
 upstream image-server {
     server 127.0.0.1:8080;
     #server img02.sogoucdn.com;
