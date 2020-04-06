@@ -53,11 +53,11 @@ time:
 # Index cover carousel configuration.
 # 首页封面轮播图的相关配置.
 cover:
-  showPrevNext: true # 是否显示左右切换按钮. Whether to display the left and right toggle buttons.
+  showPrevNext: false # 是否显示左右切换按钮. Whether to display the left and right toggle buttons.
   showIndicators: true # 是否显示指示器. # Whether to display the indicators
   autoLoop: true # 是否自动轮播. Whether it is automatically rotated.
-  duration: 120 # 切换延迟时间. Switching delay time.
-  intervalTime: 5000 # 自动切换下一张的间隔时间. Automatically switch the interval of the next one.
+  duration: 300 # 切换延迟时间. Switching delay time.
+  intervalTime: 3000 # 自动切换下一张的间隔时间. Automatically switch the interval of the next one.
   useConfig: false # 是否使用配置文件, 在 _data/covers.json 下配置推荐文章, false则使用主题在文章中的配置 cover coverImg
   # useConfig 使用方式: 将主题 hexo-theme-matery/source/_data/covers.json 移动到 my-blog/source/_data/下修改配置即可
 
@@ -369,6 +369,7 @@ libs:
     gitalk: https://cdn.staticfile.org/gitalk/1.6.2/gitalk.min.css
     jqcloud: https://cdn.staticfile.org/jqcloud/1.0.4/jqcloud.min.css
     tocbot: https://cdn.staticfile.org/tocbot/4.10.1/tocbot.css
+    swiper: https://cdn.staticfile.org/Swiper/4.5.1/css/swiper.min.css
   js:
     jquery: https://cdn.staticfile.org/jquery/3.4.1/jquery.min.js
     materialize: https://cdn.staticfile.org/materialize/1.0.0/js/materialize.min.js # 1.0.0
@@ -391,6 +392,7 @@ libs:
     ribbonRefresh: /libs/background/ribbon-refresh.min.js
     ribbon_dynamic: /libs/background/ribbon-dynamic.js
     instantpage: https://cdn.staticfile.org/instant.page/3.0.0/instantpage.min.js
+    swiper: https://cdn.staticfile.org/Swiper/4.5.1/js/swiper.min.js
 
 # The post featured images that needs to be displayed when there is no image.
 # 无文章特色图片时需要显示的文章特色图片.
