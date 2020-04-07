@@ -108,10 +108,10 @@ var coverPostsCount = coverPosts.length;
 <script src="<%- theme.jsDelivr.url %><%- theme.libs.js.swiper %>"></script>
 <script>
     $(document).ready(function () {
-        $(".swiper-slide").css('height', window.innerHeight+'px')
+        $(".swiper-slide").css('height', window.innerHeight+10+'px')
     })
     $(window).resize(function () {
-        $(".swiper-slide").css('height', window.innerHeight+'px')
+        $(".swiper-slide").css('height', window.innerHeight+10+'px')
     });
     var mySwiper = new Swiper('.swiper-container', {
         direction: 'horizontal', // 垂直切换选项
