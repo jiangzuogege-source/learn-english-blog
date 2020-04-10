@@ -33,5 +33,8 @@ var isTag = is_tag();
             <div class="tag-chips">
             </div>
         </div>
+        <% if (theme.auto.enable) { %>
+        <script src="<%- theme.jsDelivr.url %>/js/auto/article.min.js"></script>
+        <% } %>
     </div>
 </div>

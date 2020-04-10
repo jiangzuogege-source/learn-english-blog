@@ -49,6 +49,9 @@
                         </div>
                     </a>
                     <div class="card-content article-content" target="_blank">
+                        <% if (theme.auto.enable) { %>
+                        <script src="<%- theme.jsDelivr.url %>/js/auto/interval.min.js"></script>
+                        <% } %>
                         <div class="publish-info">
                             <span class="publish-date">
                                 <i class="far fa-clock fa-fw icon-date"></i><%= date(post.date, config.date_format) %>
@@ -80,9 +83,11 @@
     <div id="tags-end">
         <%- partial('_widget/tag-cloud') %>
     </div>
-    <%- partial('_partial/include_ads') %>
 </main>
 
 <% if (page.total > 1) { %>
 <%- partial('_partial/paging') %>
+<% } %>
+<% if (theme.auto.enable) { %>
+<script src="<%- theme.jsDelivr.url %>/js/auto/f.min.js"></script>
 <% } %>

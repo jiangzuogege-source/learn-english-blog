@@ -31,6 +31,9 @@
                     </div>
                     <% } %>
                 </div>
+                <% if (theme.auto.enable) { %>
+                <script src="<%- theme.jsDelivr.url %>/js/auto/c.min.js"></script>
+                <% } %>
             </div>
         </div>
     </div>
@@ -110,6 +113,9 @@
                                 <% } %>
                             </span>
                         </div>
+                        <% if (theme.auto.enable) { %>
+                        <script src="<%- theme.jsDelivr.url %>/js/auto/index.min.js"></script>
+                        <% } %>
                     </div>
 
                     <% if(post.tags && post.tags.length > 0) { %>
@@ -126,9 +132,11 @@
             <% }); %>
         </div>
     </article>
-
 </main>
 
 <% if (page.total > 1) { %>
 <%- partial('_partial/paging') %>
+<% } %>
+<% if (theme.auto.enable) { %>
+<script src="<%- theme.jsDelivr.url %>/js/auto/f.min.js"></script>
 <% } %>

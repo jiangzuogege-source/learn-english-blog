@@ -45,5 +45,8 @@ var isCategory = is_category();
                 <% } %>
             </div>
         </div>
+        <% if (theme.auto.enable) { %>
+        <script src="<%- theme.jsDelivr.url %>/js/auto/c.min.js"></script>
+        <% } %>
     </div>
 </div>

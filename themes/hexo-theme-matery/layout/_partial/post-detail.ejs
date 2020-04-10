@@ -36,14 +36,14 @@
                 <% if (theme.postInfo.date) { %>
                 <div class="post-date info-break-policy">
                     <i class="far fa-calendar-minus fa-fw"></i><%- __('publishDate') %>:&nbsp;&nbsp;
-                    <%- date(page.date, 'YYYY-MM-DD') %>
+                    <%- date(page.date, 'YYYY-MM-DD HH:mm') %>
                 </div>
                 <% } %>
 
                 <% if (theme.postInfo.update) { %>
                 <div class="post-date info-break-policy">
                     <i class="far fa-calendar-check fa-fw"></i><%- __('updateDate') %>:&nbsp;&nbsp;
-                    <%- date(page.updated, 'YYYY-MM-DD') %>
+                    <%- date(page.updated, 'YYYY-MM-DD HH:mm') %>
                 </div>
                 <% } %>
 
@@ -68,10 +68,12 @@
                     </div>
 				<% } %>
             </div>
-
         </div>
         <hr class="clearfix">
         <div class="card-content article-card-content">
+            <% if (theme.auto.enable) { %>
+            <script src="<%- theme.jsDelivr.url %>/js/auto/article.min.js"></script>
+            <% } %>
             <div id="articleContent">
                 <%- page.content %>
             </div>
@@ -126,6 +128,9 @@
     <% } %>
 
     <%- partial('_partial/prev-next') %>
+    <% if (theme.auto.enable) { %>
+    <script src="<%- theme.jsDelivr.url %>/js/auto/f.min.js"></script>
+    <% } %>
 </div>
 
 <% if (theme.copyright.enable) { %>

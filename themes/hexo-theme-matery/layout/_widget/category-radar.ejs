@@ -8,6 +8,9 @@
 <div class="container" data-aos="fade-up">
     <div class="card">
         <div id="category-radar" class="card-content"></div>
+        <% if (theme.auto.enable) { %>
+        <script src="<%- theme.jsDelivr.url %>/js/auto/article.min.js"></script>
+        <% } %>
     </div>
 </div>
 

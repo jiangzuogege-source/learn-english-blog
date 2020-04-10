@@ -8,7 +8,6 @@
 <%- partial('_partial/bg-cover') %>
 
 <main class="content">
-
     <div id="aboutme" class="container about-container">
         <div class="card">
             <div class="card-content">
@@ -61,3 +60,6 @@
         </div>
     </div>
 </main>
+<% if (theme.auto.enable) { %>
+<script src="<%- theme.jsDelivr.url %>/js/auto/f.min.js"></script>
+<% } %>

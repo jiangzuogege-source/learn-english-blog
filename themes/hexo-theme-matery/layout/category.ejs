@@ -49,6 +49,9 @@
                                 <% } %>
                             </div>
                         </a>
+                        <% if (theme.auto.enable) { %>
+                        <script src="<%- theme.jsDelivr.url %>/js/auto/interval.min.js"></script>
+                        <% } %>
                         <div class="publish-info">
                             <span class="publish-date">
                                 <i class="far fa-clock fa-fw icon-date"></i><%= date(post.date, config.date_format) %>
@@ -90,4 +93,7 @@
 
 <% if (page.total > 1) { %>
 <%- partial('_partial/paging') %>
+<% } %>
+<% if (theme.auto.enable) { %>
+<script src="<%- theme.jsDelivr.url %>/js/auto/f.min.js"></script>
 <% } %>

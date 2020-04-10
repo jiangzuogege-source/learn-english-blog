@@ -1,7 +1,6 @@
 <%- partial('_partial/bg-cover') %>
 
 <main class="content">
-
     <% if (theme.postCalendar) { %>
     <%- partial('_widget/post-calendar') %>
     <% } %>
@@ -34,8 +33,10 @@
     var featureimg = '/medias/featureimages/0.jpg';
     var featureImages = theme.featureImages;
     %>
-
     <div id="cd-timeline" class="container">
+        <% if (theme.auto.enable) { %>
+        <script src="<%- theme.jsDelivr.url %>/js/auto/c.min.js"></script>
+        <% } %>
         <% page.posts.each(function(post) { %>
         <div class="cd-timeline-block">
 
@@ -126,9 +127,11 @@
         </div>
         <% }); %>
     </div>
-
 </main>
 
 <% if (page.total > 1) { %>
 <%- partial('_partial/paging') %>
+<% } %>
+<% if (theme.auto.enable) { %>
+<script src="<%- theme.jsDelivr.url %>/js/auto/f.min.js"></script>
 <% } %>

@@ -533,3 +533,8 @@ jsDelivr:
 # js/auto里面的内容是否嵌入
 auto:
   enable: true
+
+# 页面统计代码
+count:
+  enable: true
+  link: https://s4.cnzz.com/z_stat.php?id=1278650874&web_id=1278650874
