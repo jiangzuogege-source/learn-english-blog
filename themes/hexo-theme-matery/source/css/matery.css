@@ -2312,3 +2312,7 @@ article{
 #articleContent h4{
     line-height: 2.2rem;
 }
+
+.lg-outer .lg-thumb-outer {
+    background-color: #FFF;
+}
