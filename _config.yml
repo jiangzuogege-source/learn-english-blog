@@ -100,7 +100,7 @@ feed: # RSS订阅插件
 plugins: hexo-generate-feed
 
 search:
-  path: search.xml
+  path: search.json
   field: post
 
 permalink_pinyin:
