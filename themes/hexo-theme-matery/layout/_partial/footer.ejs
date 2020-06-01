@@ -103,7 +103,9 @@
             </div>
             <% if (theme.count.enable) { %>
             <div style="display: none">
-                <script type="text/javascript" src="<%- theme.count.link %>"></script>
+                <script type="text/javascript">
+                    document.write("<script type=\"text\/javascript\" src=\"<%- theme.count.link %>\"><\/script>");
+                </script>
             </div>
             <% } %>
         </div>
