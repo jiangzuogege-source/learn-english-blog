@@ -1,23 +1,16 @@
 [{
   "avatar": "/medias/featureimages/2.jpg",
-  "name": "服务器",
-  "introduction": "阿里云,24一个月,500G流量,香港的哦",
-  "url": "https://5fu8.com/api/jump.html?code=754079b407a28b37&type=2",
+  "name": "阿里云",
+  "introduction": "24每月,1G30M按月,可梯子,500G流量,香港服务器",
+  "url": "https://api.5fu8.com/template/link/go/NFn2Ej",
   "title": "前去看看"
 },
 {
   "avatar": "/medias/featureimages/22.jpg",
-  "name": "2折起",
-  "introduction": "阿里云永久折扣页,75块一年的云服务器",
-  "url": "https://5fu8.com/api/jump.html?code=6279e380b9f01994&type=2",
+  "name": "腾讯云",
+  "introduction": "2G一年99,3G5M三年只要499,每天多有新优惠",
+  "url": "https://api.5fu8.com/template/link/go/Iveu2e",
   "title": "前去看看"
-},
-{
-    "avatar": "/medias/featureimages/5.jpg",
-    "name": "1折起",
-    "introduction": "阿里云采购季，云服务器74元/年起，低至1折",
-    "url": "https://5fu8.com/api/jump.html?code=de5042349ac3d82f&type=2",
-    "title": "前去看看"
 }
 , {
   "avatar": "/medias/featureimages/18.jpg",
@@ -27,46 +20,31 @@
   "title": "前去看看"
 }
 , {
-  "avatar": "/medias/featureimages/12.jpg",
-  "name": "短链接",
-  "introduction": "可配置的短连接生成,简单快捷",
-  "url": "https://5fu8.com/api/link.html",
-  "title": "前去看看"
-}
-, {
-  "avatar": "/medias/featureimages/15.jpg",
-  "name": "图床API",
-  "introduction": "免费的图片上传API,支持搜狗图片接口,SM.MS上传",
-  "url": "https://5fu8.com/api/jump.html?code=7e8c45cc65819824&type=1&seconds=5",
-  "title": "前去看看"
-}
-, {
     "avatar": "/medias/featureimages/10.jpg",
     "name": "SO导航",
     "introduction": "不能Google,玩腻Baidu,不如试试SO",
-    "url": "https://5fu8.com/api/jump.html?code=6d87b8e1526afc3a&type=2",
+    "url": "https://api.5fu8.com/template/link/go/6n22Y3",
     "title": "前去试试"
   }
 , {
   "avatar": "/medias/featureimages/3.jpg",
   "name": "浏览器",
   "introduction": "各种VIP免费用,安装后要添加暴力猴插件哦",
-  "url": "https://5fu8.com/api/jump.html?code=cd95d3f6978d13d5&type=2",
+  "url": "https://api.5fu8.com/template/link/go/FFviQ3",
   "title": "下载看看"
 },
 {
   "avatar": "/medias/featureimages/6.jpg",
   "name": "安全卫士",
   "introduction": "屏蔽PC各种弹窗,你值得拥有",
-  "url": "https://5fu8.com/api/jump.html?code=d87a02e45df1d633&type=2",
+  "url": "https://api.5fu8.com/template/link/go/aaARrq",
   "title": "下载试试"
 }
 , {
   "avatar": "/medias/featureimages/9.jpg",
   "name": "一键安装包",
   "introduction": "重装系统,压缩、浏览器、WPS等,一键安装",
-  "url": "https://5fu8.com/api/jump.html?code=bae9dafbef73633f&type=2",
+  "url": "https://api.5fu8.com/template/link/go/IrMJva",
   "title": "下载看看"
 }
-
 ]
