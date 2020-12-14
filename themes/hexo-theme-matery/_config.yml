@@ -124,14 +124,14 @@ indexbtn:
   enable: true
   name: 码云
   icon: fab fa-github-alt
-  url: https://5fu8.com/api/jump.html?code=eb66432f2b88c0c0
+  url: https://api.5fu8.com/template/link/go/3meQ3e
 
 # The configurations of the second line of home banner
 # icon/button will not show up if you leave the corresponding socialLink empty
 # 首页 banner 中的第二行个人信息配置，留空即不启用
 socialLink:
   enable: false
-  github: https://5fu8.com/api/jump.html?code=eb66432f2b88c0c0
+  github: https://api.5fu8.com/template/link/go/3meQ3e
   email: admin@5fu8.com
   facebook: # https://www.facebook.com/xxx
   twitter: # https://twitter.com/xxx
@@ -214,18 +214,18 @@ myProjects:
     OkHttpTools:
       icon: fas fa-file-alt
       iconBackground: 'linear-gradient(to bottom right, #66BB6A 0%, #81C784 100%)'
-      url: https://5fu8.com/api/jump.html?code=c7d5027cdd485eb2
+      url: https://gitee.com/doobo/OkHttpTools
       desc: POST请求、GET请求、上传文件、下载文件、Ws/Wss请求工具
-    proxy:
+    ipfs-cloud:
         icon: fas fa-database
         iconBackground: 'linear-gradient(to bottom right, #F06292 0%, #EF5350 100%)'
-        url: https://5fu8.com/api/jump.html?code=df2e647dc66c03e7
-        desc: 常用网络工,一些简单的Mac、Windows、Android的客户端工具,网络代理工具
-    img-api:
+        url: https://gitee.com/doobo/ipfs-cloud
+        desc: 基于SpringCloud的IPFS私有云,主要解决文件存储分发问题,全网自动同步
+    spring-elfinder:
         icon: fas fa-file-alt
         iconBackground: 'linear-gradient(to bottom right, #29B6F6 0%, #1E88E5 100%)'
-        url: https://5fu8.com/api/jump.html?code=7e8c45cc65819824&type=1&seconds=5
-        desc: 免费的图片上传API,支持搜狗图片接口,SM.MS上传,6间房上传接口,可快速定义新接口
+        url: https://gitee.com/doobo/spring-elfinder
+        desc: 基于Spring的WEB文件管理器,支持Maven引入,引入即可使用
 
 # config my skills informations in about page.
 # If you don't want to display this `My Skills` content, you can deactivate or delete this configuration.
@@ -318,7 +318,7 @@ valine:
 # 配置是否在 header 中显示 fork me on github 的图标，默认为true，你可以修改为你的仓库地址.
 githubLink:
   enable: true
-  url: https://5fu8.com/api/jump.html?code=c7d5027cdd485eb2
+  url: https://api.5fu8.com/template/link/go/3meQ3e
   title: Fork Me
 
 # The password verification feature of read post. To use this feature,
