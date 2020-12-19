@@ -24,22 +24,22 @@ categories:
 随着近年UEFI模式的流行，大部分新出的电脑多为UEFI启动模式，导致U盘PE不得不进行升级，就出现了支持UEFI启动的U盘PE系统，当然也同时支持老的MBR启动，但不是绝对的，我碰到过几次电脑插入UEFI的U盘，不能认U盘，必须使用老的MBR的U盘系统。相信随着时间的推移，UEFI终将取代MBR的U盘。
 
 ### 本地硬盘安装
-谁这win10系统的推广，系统安装也能像软件一样安装，前提是下载官方原版的系统，也就是后缀为ISO的镜像文件，网上大部分搜索的系统多为植入的广告软件的改版系统，目前知道的一个比较稳定的系统下载地址是:[Windows下载](https://5fu8.com/api/jump.html?code=392e9732858e65f1&type=1&seconds=10)，
+谁这win10系统的推广，系统安装也能像软件一样安装，前提是下载官方原版的系统，也就是后缀为ISO的镜像文件，网上大部分搜索的系统多为植入的广告软件的改版系统，目前知道的一个比较稳定的系统下载地址是:[Windows下载](https://api.5fu8.com/template/link/go/2i6bMf)，
 这个网站运行了10多年，有windows系列的大部分官方软件,有兴趣的朋友可以访问看看。
 
 
 ## 安装要点介绍
 用光盘安装系统，如果开机不能进入安装界面，可以考虑进入BIOS设置第一启动路径为光驱；
 用U盘安装系统，如果你的电脑是近三年卖的，并且是官方原配系统（也就是没有经过他人重新安装系统），那么就可以考虑用UEFI启动U盘来安装系统，要安装的系统最好为最近官方原版系统，因为在用UEFI启动U盘安装原版系统时，可以直接打开原版系统的Setup文件，进行直接安装，和安装普通软件或光盘安装的步骤一样。
-用硬盘安装系统，就像软件一样，只是win7以下的系统，需要软件把ios加载成虚拟光驱，可以直接在[360软件管家](https://5fu8.com/api/jump.html?code=d87a02e45df1d633&type=2)里面搜索[虚拟光驱](https://5fu8.com/api/jump.html?code=d87a02e45df1d633&type=2)就行
+用硬盘安装系统，就像软件一样，只是win7以下的系统，需要软件把ios加载成虚拟光驱，可以直接在[360软件管家](https://api.5fu8.com/template/link/go/aaARrq)里面搜索[虚拟光驱](https://api.5fu8.com/template/link/go/aaARrq)就行
 
 
 ## 激活系统
-有条件的直接购买原版系统，或者淘宝一个密钥，输入到激活栏里面就行；对于敢于尝试不同方法的，可以试试下面这个的[数字激活](https://5fu8.com/api/jump.html?code=92030885168c6105)方式，本站不直接提供下载，可以到搜集到的网站里下载:[HWIDGen_62.01_汉化版](https://5fu8.com/api/jump.html?code=92030885168c6105)
+有条件的直接购买原版系统，或者淘宝一个密钥，输入到激活栏里面就行；对于敢于尝试不同方法的，可以试试下面这个的[数字激活](https://api.5fu8.com/template/link/go/r2auU3)方式，本站不直接提供下载，可以到搜集到的网站里下载:[HWIDGen_62.01_汉化版](https://api.5fu8.com/template/link/go/r2auU3)
 
 
 ## 自动更新关闭
-随着win10系统使用的越来越多，但系统总是自动更新，特别消耗资源，一般多是使用[安全管家](https://5fu8.com/api/jump.html?code=d87a02e45df1d633&type=2)更新,可以尝试用这个软件[禁用或启用自动更新服务](https://5fu8.com/api/jump.html?code=93ffa76b0042ea68)。
+随着win10系统使用的越来越多，但系统总是自动更新，特别消耗资源，一般多是使用[安全管家](https://api.5fu8.com/template/link/go/aaARrq)更新,可以尝试用这个软件[禁用或启用自动更新服务](https://api.5fu8.com/template/link/go/r2auU3)。
 
 ## 多用户远程同时登陆
-有没有这种情况，远程Windows系统，使用同一个系统账号，想同时A和B同时登陆，可以使用这个软件试试，[多端远程登陆](https://5fu8.com/api/jump.html?code=320967795954c5b9)。
+有没有这种情况，远程Windows系统，使用同一个系统账号，想同时A和B同时登陆，可以使用这个软件试试，[多端远程登陆](https://api.5fu8.com/template/link/go/r2auU3)。
