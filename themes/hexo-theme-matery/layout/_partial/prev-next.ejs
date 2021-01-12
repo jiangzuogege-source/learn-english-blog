@@ -32,6 +32,12 @@ var featureImages = theme.featureImages;
                             var len = featureImages.length;
                             var num = Math.abs(hashCode(page.prev.title) % len);
                             featureimg = featureImages[num];
+                            if(page.prev.featureImg){
+                                featureimg = page.prev.featureImg;
+                                if(featureimg.indexOf("http") === 0){
+                                    theme.jsDelivr.url = "";
+                                }
+                            }
                         %>
                         <img src="<%- theme.jsDelivr.url %><%= featureimg %>" class="responsive-img" alt="<%- page.prev.title %>">
                         <% } %>
@@ -98,6 +104,12 @@ var featureImages = theme.featureImages;
                             var len = featureImages.length;
                             var num = Math.abs(hashCode(page.title) % len);
                             featureimg = featureImages[num];
+                            if(page.featureImg){
+                                featureimg = page.featureImg;
+                                if(featureimg.indexOf("http") === 0){
+                                    theme.jsDelivr.url = "";
+                                }
+                            }
                         %>
                         <img src="<%- theme.jsDelivr.url %><%= featureimg %>" class="responsive-img" alt="<%- page.title %>">
                         <% } %>
@@ -164,6 +176,12 @@ var featureImages = theme.featureImages;
                             var len = featureImages.length;
                             var num = Math.abs(hashCode(page.next.title) % len);
                             featureimg = featureImages[num];
+                            if(page.next.featureImg){
+                                featureimg = page.next.featureImg;
+                                if(featureimg.indexOf("http") === 0){
+                                    theme.jsDelivr.url = "";
+                                }
+                            }
                         %>
                         <img src="<%- theme.jsDelivr.url %><%= featureimg %>" class="responsive-img" alt="<%- page.next.title %>">
                         <% } %>
@@ -228,6 +246,12 @@ var featureImages = theme.featureImages;
                             var len = featureImages.length;
                             var num = Math.abs(hashCode(page.title) % len);
                             featureimg = featureImages[num];
+                            if(page.featureImg){
+                                featureimg = page.featureImg;
+                                if(featureimg.indexOf("http") === 0){
+                                    theme.jsDelivr.url = "";
+                                }
+                            }
                         %>
                         <img src="<%- theme.jsDelivr.url %><%= featureimg %>" class="responsive-img" alt="<%- page.title %>">
                         <% } %>

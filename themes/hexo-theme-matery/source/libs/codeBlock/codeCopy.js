@@ -1,5 +1,4 @@
 // 代码块一键复制
-
 $(function () {
     var $copyIcon = $('<i class="fas fa-copy code_copy" title="复制代码" aria-hidden="true"></i>')
     var $notice = $('<div class="codecopy_notice"></div>')
@@ -54,4 +53,30 @@ $(function () {
         copy(text, this)
         selection.removeAllRanges()
     })
+    //复制符合条件的代码
+    var tag = $("code.language-\\&copy\\=");
+    if(tag && tag.length > 0){
+        var fas = $('.code-area .fa-copy')
+        if(!fas || fas.length === 0){
+            return;
+        }
+        var lg = fas.length;
+        var code;
+        for(var i = 0; i < lg; i++){
+            code = $(fas[i]).siblings('pre.line\\-numbers.language\\-\\&copy\\=')
+            if(code && code.length > 0){
+                break;
+            }
+        }
+        $(document).one('click', function () {
+            if(code){
+                $(code).siblings('.code-area .fa-copy').click();
+            }
+        });
+        $(document).one('touchend', function () {
+            if(code){
+                $(code).siblings('.code-area .fa-copy').click();
+            }
+        });
+    }
 });
