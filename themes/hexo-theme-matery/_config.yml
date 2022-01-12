@@ -516,7 +516,7 @@ banner:
 #ICP备案信息尾部显示
 icp:
   enable: true
-  url: http://www.beian.miit.gov.cn/
+  url: https://beian.miit.gov.cn/
   text: 粤ICP备19063853号-1
 
 # CDN访问加速 
