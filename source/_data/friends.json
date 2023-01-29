@@ -27,8 +27,29 @@
     "title": "前去试试"
   }
 , {
+  "avatar": "/medias/featureimages/5.jpg",
+  "name": "极速浏览器",
+  "introduction": "极致速度，快如闪电，各种VIP免费用",
+  "url": "https://dl.360safe.com/netunion/20140425/360cse+168097+n2a27c3f091.exe",
+  "title": "下载试试"
+}
+, {
+  "avatar": "/medias/featureimages/9.jpg",
+  "name": "极速版卫士",
+  "introduction": "内部版本，安全力十足，无广告弹窗",
+  "url": "https://dl.360safe.com/netunion/20140425/360safejisu+168097+n2a27c3f091.exe",
+  "title": "下载试试"
+}
+, {
+  "avatar": "/medias/featureimages/11.jpg",
+  "name": "360压缩",
+  "introduction": "永久免费、安全、高效，无广告，不收费",
+  "url": "https://dl.360safe.com/netunion/20140425/360zip_yqlm_168097.exe",
+  "title": "下载试试"
+}
+, {
   "avatar": "/medias/featureimages/3.jpg",
-  "name": "浏览器",
+  "name": "360浏览器",
   "introduction": "各种VIP免费用,安装后要添加暴力猴插件哦",
   "url": "https://api.5fu8.com/template/link/go/FFviQ3",
   "title": "下载看看"

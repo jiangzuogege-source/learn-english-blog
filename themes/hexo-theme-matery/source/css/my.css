@@ -58,9 +58,11 @@
 }
 .wxmin{
     padding-top: 10px;
+    display: none;
 }
 
 .wxmin img{
+    display: none;
     width: 100px;
     margin-left: -28px;
     padding-left: 10px;

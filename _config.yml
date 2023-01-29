@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 正统资讯
+title: 集5福学习吧
 subtitle: 致最好的我们
-description: 网络资源整理,优惠劵分发,优秀资源推荐,微信小程序:正统资讯
+description: 记录工作中用到的边边角角，悟已往之不谏，知来者之可追。
 keywords: 博客
 author: 河蟹堡
 language: zh-CN
@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://www.5fu8.com
+url: https://www.5fu8.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
