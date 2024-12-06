@@ -25,7 +25,10 @@
     }
 
     // final page title.
-    var pageTitle = title ? title + ' | ' + config.title : config.title;
+    var pageTitle = (title && config.title)? title + ' | ' + config.title : config.title;
+    if(!config.title){
+        pageTitle = title;
+    }
     var headTitle = config.headTitle ? config.headTitle : pageTitle;
 
     // keywords.
