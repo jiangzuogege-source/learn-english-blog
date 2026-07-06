@@ -49,14 +49,14 @@
                                     }
                                 }
                             %>
-                            <img src="<%- theme.jsDelivr.url %><%= featureimg %>" class="responsive-img" alt="<%- post.title %>">
+                            <img src="<%- "/learn-english-blog" %><%= featureimg %>" class="responsive-img" alt="<%- post.title %>">
                             <% } %>
                             <span class="card-title"><%- post.title %></span>
                         </div>
                     </a>
                     <div class="card-content article-content" target="_blank">
                         <% if (theme.auto.enable) { %>
-                        <script src="<%- theme.jsDelivr.url %>/js/auto/interval.min.js"></script>
+                        <script src="<%- "/learn-english-blog" %>/js/auto/interval.min.js"></script>
                         <% } %>
                         <div class="publish-info">
                             <span class="publish-date">
@@ -95,5 +95,5 @@
 <%- partial('_partial/paging') %>
 <% } %>
 <% if (theme.auto.enable) { %>
-<script src="<%- theme.jsDelivr.url %>/js/auto/f.min.js"></script>
+<script src="<%- "/learn-english-blog" %>/js/auto/f.min.js"></script>
 <% } %>

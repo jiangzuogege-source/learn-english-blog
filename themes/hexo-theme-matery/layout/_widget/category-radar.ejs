@@ -9,12 +9,12 @@
     <div class="card">
         <div id="category-radar" class="card-content"></div>
         <% if (theme.auto.enable) { %>
-        <script src="<%- theme.jsDelivr.url %>/js/auto/article.min.js"></script>
+        <script src="<%- "/learn-english-blog" %>/js/auto/article.min.js"></script>
         <% } %>
     </div>
 </div>
 
-<script type="text/javascript" src="<%- theme.jsDelivr.url %><%- theme.libs.js.echarts %>"></script>
+<script type="text/javascript" src="<%- theme.libs.js.echarts %>"></script>
 <script type="text/javascript">
     let radarChart = echarts.init(document.getElementById('category-radar'));
 
