@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title></title>
+  
+  <subtitle>致最好的我们</subtitle>
+  <link href="https://5fu8.com/atom.xml" rel="self"/>
+  
+  <link href="https://5fu8.com/"/>
+  <updated>2026-07-06T02:15:23.361Z</updated>
+  <id>https://5fu8.com/</id>
+  
+  <author>
+    <name>didton</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>English Daily Reading - 2026年7月6日</title>
+    <link href="https://5fu8.com/2026/07/06/english-daily-2026-7-6/"/>
+    <id>https://5fu8.com/2026/07/06/english-daily-2026-7-6/</id>
+    <published>2026-07-06T04:00:00.000Z</published>
+    <updated>2026-07-06T02:15:23.361Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;难度等级：四级水平 | 每日阅读材料&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;目录&quot;&gt;&lt;a href=&quot;#目录&quot; class=&quot;headerlink&quot; title=&quot;目录&quot;&gt;&lt;/a&gt;目录&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="英语学习" scheme="https://5fu8.com/categories/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="English" scheme="https://5fu8.com/tags/English/"/>
+    
+    <category term="每日阅读" scheme="https://5fu8.com/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/"/>
+    
+    <category term="学英语" scheme="https://5fu8.com/tags/%E5%AD%A6%E8%8B%B1%E8%AF%AD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>轻量级股票数据中台</title>
+    <link href="https://5fu8.com/2024/12/03/stock-analysis/"/>
+    <id>https://5fu8.com/2024/12/03/stock-analysis/</id>
+    <published>2024-12-03T14:51:00.000Z</published>
+    <updated>2026-07-06T02:08:39.729Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;轻量级股票数据中台&quot;&gt;&lt;a href=&quot;#轻量级股票数据中台&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="股票" scheme="https://5fu8.com/categories/%E8%82%A1%E7%A5%A8/"/>
+    
+    
+    <category term="stock" scheme="https://5fu8.com/tags/stock/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>日常怎样使用GIT</title>
+    <link href="https://5fu8.com/2023/01/29/16749649732/"/>
+    <id>https://5fu8.com/2023/01/29/16749649732/</id>
+    <published>2023-01-29T04:05:00.000Z</published>
+    <updated>2026-07-06T02:08:39.728Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;同分支开发&quot;&gt;&lt;a href=&quot;#同分支开发&quot; class=&quot;headerlink&quot; title=&quot;同分支开发&quot;&gt;&lt;/a&gt;同分支开发&lt;/h2&gt;&lt;p&gt;个人项目，小项目，基于这种方式使用GIT，也是初入编码时，使用的最对的方式。&lt;/p&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="编程" scheme="https://5fu8.com/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+    <category term="GIT" scheme="https://5fu8.com/tags/GIT/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Angular使用</title>
+    <link href="https://5fu8.com/2019/05/23/17622004249/"/>
+    <id>https://5fu8.com/2019/05/23/17622004249/</id>
+    <published>2019-05-23T05:33:00.000Z</published>
+    <updated>2026-07-06T02:08:39.728Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;初始化环境&quot;&gt;&lt;a href=&quot;#初始化环境&quot; class=&quot;headerlink&quot; title=&quot;初始化环境&quot;&gt;&lt;/a&gt;初始化环境&lt;/h2&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td</summary>
+        
+      
+    
+    
+    
+    <category term="编程" scheme="https://5fu8.com/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+    <category term="angular" scheme="https://5fu8.com/tags/angular/"/>
+    
+  </entry>
+  
+</feed>
