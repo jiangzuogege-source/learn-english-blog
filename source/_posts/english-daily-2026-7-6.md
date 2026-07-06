@@ -1,408 +1,344 @@
 ---
-title: English Daily Reading - 2026年7月6日
+title: English Daily Reading - 2026年7月6日（中国专题）
 copyright: false
-date: 2026-07-06 12:00:00
+date: 2026-07-06 18:00:00
 tags:
  - English
  - 每日阅读
  - 学英语
+ - 中国新闻
 categories:
  - 英语学习
 ---
 
-> 难度等级：四级水平 | 每日阅读材料
+
+> 难度等级：四级水平 | 每日阅读材料 | 本期聚焦中国新闻
 
 ---
 
 ## 目录
 
-1. [Haaland Scores Twice as Norway Stun Brazil in World Cup](#1-haaland-scores-twice-as-norway-stun-brazil-in-world-cup)
-2. [Osaka Knocks Out Top-Seeded Sabalenka at Wimbledon](#2-osaka-knocks-out-top-seeded-sabalenka-at-wimbledon)
-3. [Russia Says Ukraine Rejects Local Ceasefire](#3-russia-says-ukraine-rejects-local-ceasefire)
-4. [Australia Thrash England to Win Women's T20 World Cup](#4-australia-thrash-england-to-win-womens-t20-world-cup)
-5. [Cameroon's Fight to Register Every Child](#5-cameroons-fight-to-register-every-child)
-6. [Thunderstorms Hamper Colorado Wildfire Efforts](#6-thunderstorms-hamper-colorado-wildfire-efforts)
-7. [Taylor Swift and Travis Kelce Wed in New York](#7-taylor-swift-and-travis-kelce-wed-in-new-york)
-8. [Iran Prepares for Khamenei's Funeral](#8-iran-prepares-for-khameneis-funeral)
-9. [Neymar Quits International Football](#9-neymar-quits-international-football)
-10. [How to Win a Penalty Shootout with Game Theory](#10-how-to-win-a-penalty-shootout-with-game-theory)
+1. [Tianwen-2 Reaches Asteroid After 1 Billion km Trip](#1-tianwen-2-reaches-asteroid-after-1-billion-km-trip)
+2. [China's Railway Tech Conquers World Peak](#2-chinas-railway-tech-conquers-world-peak)
+3. [Chinese EVs Debut in Canada](#3-chinese-evs-debut-in-canada)
+4. [Record Downpours Hit Fushun, Leaving 3 Dead](#4-record-downpours-hit-fushun-leaving-3-dead)
+5. [Chinese Chip Cuts Brain Modeling Latency to Milliseconds](#5-chinese-chip-cuts-brain-modeling-latency-to-milliseconds)
+6. [China Launches New Satellite Group for Qianfan Constellation](#6-china-launches-new-satellite-group-for-qianfan-constellation)
+7. [New Policies to Better Protect Gig Workers](#7-new-policies-to-better-protect-gig-workers)
+8. [Matcha Boom Turns Guizhou Tea Into a New Era](#8-matcha-boom-turns-guizhou-tea-into-a-new-era)
+9. [Jurassic Fossil Fills Gap in Evolution of Bird Tails](#9-jurassic-fossil-fills-gap-in-evolution-of-bird-tails)
+10. [How China Is Using Drones to Protect Cotton Crops](#10-how-china-is-using-drones-to-protect-cotton-crops)
 
 ---
 
-## 1. Haaland Scores Twice as Norway Stun Brazil in World Cup
+## 1. Tianwen-2 Reaches Asteroid After 1 Billion km Trip
 
-**Source:** Al Jazeera | **Date:** July 5, 2026
+**Source:** CGTN | **Date:** July 6, 2026
 
-Erling Haaland scored two late goals to send Norway through to their first World Cup quarterfinal with a stunning 2-1 win over Brazil, which condemned the five-time champions to their earliest exit since 1990.
+China's Tianwen-2 spacecraft has successfully reached its target asteroid 2016 HO3 after completing an extraordinary journey of one billion kilometers. The spacecraft, launched by the China National Space Administration (CNSA), is now preparing to begin scientific survey operations on the near-Earth asteroid.
 
-Norway goalkeeper Orjan Nyland produced a sensational display on Sunday and saved a first-half penalty from Bruno Guimaraes before Haaland struck twice in the last 11 minutes to stun Brazil at New York New Jersey Stadium.
+Tianwen-2 represents a major milestone in China's deep space exploration program. The mission aims to collect samples from the asteroid and return them to Earth, providing scientists with valuable material that could offer insights into the early solar system.
 
-Neymar pulled a goal back deep into stoppage time with Brazil's second spot kick of the match.
+The asteroid 2016 HO3, also known as 469219 Kamoʻoalewa, is a quasi-satellite of Earth — meaning it orbits the Sun in a path that keeps it relatively close to our planet. Scientists believe studying this asteroid could help answer fundamental questions about the formation of planets and the origins of water on Earth.
 
-Haaland's brace took him level with Lionel Messi on seven goals for the tournament as Norway booked a showdown against either cohosts Mexico or England in Miami on July 11.
+The spacecraft will spend several months surveying the asteroid's surface, mapping its terrain, and analyzing its composition before attempting to collect samples. If successful, China will become only the second country after Japan and the United States to return samples from an asteroid.
 
-For Brazil, who hired Carlo Ancelotti in a bid to end a 24-year World Cup drought, it is the sixth straight tournament they have been knocked out by European opposition.
-
-Gabriel Martinelli was rewarded for scoring the stoppage-time winner against Japan in the previous round, as the Arsenal winger replaced the injured Lucas Paqueta in the lone change to Brazil's lineup.
-
-Norway were boosted by the return of Julian Ryerson, the Borussia Dortmund defender fit again after missing the past two games with a thigh injury.
-
-Patrick Berg thought he had given Norway the lead inside three minutes, but his effort was ruled out for offside in the build-up.
-
-After a rocky start, Brazil won a penalty when Kristoffer Ajer clattered into Matheus Cunha in the box. The Brazilians were left furious as referee Ismail Elfath initially waved away their appeals, but VAR intervened, and the decision was overturned.
-
-Guimaraes stepped up, but Nyland guessed correctly, diving low to his left to push away the Newcastle midfielder's tame penalty.
-
-Haaland had struggled to make a significant impact, but his strength created a glorious opening for Norway before half-time. The striker caused problems for Gabriel Magalhaes and Marquinhos in the Brazil defence before the ball broke kindly for Odegaard, whose effort was well saved by Alisson.
-
-It was Norway who eventually broke the deadlock, and it came through an inevitable source. Schjelderup whipped in a cross from the left and soared above Gabriel to power a header into the corner.
-
-Haaland gave Norway breathing space as he hammered low into the corner from the edge of the box in the 90th minute. It proved vital when Neymar converted a penalty in the 10th minute of stoppage time.
+This mission builds on the success of China's Tianwen-1 Mars mission, which successfully landed a rover on the Red Planet in 2021. The CNSA has outlined ambitious plans for further deep space exploration, including a crewed Moon landing mission planned for the coming years.
 
 ### 生词释义
 
 | 单词/短语 | 音标 | 词性 | 释义 |
 |-----------|------|------|------|
-| stun | /stʌn/ | v. | 使震惊，使目瞪口呆 |
-| brace | /breɪs/ | n. | （足球）梅开二度，连进两球 |
-| quarterfinal | /ˌkwɔːtərˈfaɪnl/ | n. | 四分之一决赛 |
-| condemnation | /ˌkɒndemˈneɪʃn/ | n. | 谴责；这里指导致淘汰 |
-| drought | /draʊt/ | n. | 干旱；（引申）长期缺乏 |
-| penalty | /ˈpenəlti/ | n. | 点球；罚球 |
-| intervene | /ˌɪntəˈviːn/ | v. | 干预，介入 |
-| overturn | /ˌəʊvəˈtɜːn/ | v. | 推翻，撤销 |
-| tame | /teɪm/ | adj. | 无力的，软弱的 |
-| offside | /ˌɒfˈsaɪd/ | n./adj. | 越位 |
-| clatter into | /ˈklætər ˈɪntuː/ | phr. | 猛撞到 |
-| deadlock | /ˈdedlɒk/ | n. | 僵局 |
-| stoppage time | /ˈstɒpɪdʒ taɪm/ | n. | 伤停补时 |
-| soaring | /ˈsɔːrɪŋ/ | adj. | 高飞的，翱翔的 |
+| asteroid | /ˈæstərɔɪd/ | n. | 小行星 |
+| spacecraft | /ˈspeɪskrɑːft/ | n. | 宇宙飞船 |
+| extraordinary | /ɪkˈstrɔːdnri/ | adj. | 非凡的，卓越的 |
+| milestone | /ˈmaɪlstəʊn/ | n. | 里程碑 |
+| exploration | /ˌekspləˈreɪʃn/ | n. | 探索 |
+| sample | /ˈsɑːmpl/ | n. | 样本 |
+| quasi-satellite | /ˌkwɑːzi ˈsætəlaɪt/ | n. | 准卫星 |
+| composition | /ˌkɒmpəˈzɪʃn/ | n. | 组成，成分 |
+| terrain | /təˈreɪn/ | n. | 地形 |
+| solar system | /ˈsəʊlər ˈsɪstəm/ | n. | 太阳系 |
+| ambitious | /æmˈbɪʃəs/ | adj. | 雄心勃勃的 |
 
 ---
 
-## 2. Osaka Knocks Out Top-Seeded Sabalenka at Wimbledon
+## 2. China's Railway Tech Conquers World Peak
 
-**Source:** Al Jazeera | **Date:** July 5, 2026
+**Source:** CGTN | **Date:** July 6, 2026
 
-Naomi Osaka has stunned women's tennis world number one Aryna Sabalenka with a 6-2, 7-6 (7/2) victory as the Japanese star moved into the Wimbledon quarterfinals for the first time.
+Chinese railway technology has achieved a new global milestone by reaching the world's highest point. The achievement demonstrates China's continued leadership in high-altitude railway engineering and construction.
 
-Osaka avenged a straight-sets defeat against Sabalenka in the French Open last 16 in June by eliminating her fellow four-time Grand Slam champion with a superb display on Centre Court on Sunday.
+The project overcame extreme challenges including low oxygen levels, freezing temperatures, and complex geological conditions. Engineers developed innovative solutions to ensure the railway could operate safely and reliably in one of the most hostile environments on Earth.
 
-It has been five years since Osaka lifted her most recent Grand Slam trophy at the Australian Open. Revitalised by coach Tomasz Wiktorowski, who mentored Polish player Iga Swiatek, Osaka reached the semifinals of the US Open last year and has carried that momentum into 2026.
+This accomplishment builds on China's existing record-breaking railway infrastructure, including the Qinghai-Xizang Railway, which has been operational for 20 years and remains the highest railway in the world. The new extension pushes the boundaries even further.
 
-Osaka is yet to drop a set across her opening four matches at Wimbledon. Seeded 14th, she is finally finding her groove on grass, helped by the eye-catching outfits she arrives on court wearing.
+The railway is expected to bring significant economic benefits to remote communities along its route, improving access to markets, healthcare, and education. It will also serve as a vital transportation link for tourism and trade.
 
-Her walk-on costumes have included a kimono, a bomber jacket with a long train, and a cloak that looks like an open kimono. The 28-year-old believes all the talk about her haute couture has taken the pressure off her tennis.
-
-Once again, she treated fans to a memorable outfit before delivering a tailor-made performance that left Sabalenka's Wimbledon challenge in tatters in the last 16.
-
-Osaka faces Czechia's 10th seed Karolina Muchova for a place in the last four.
-
-"For me, this court is so special. This is the first match I've won on this court. It means a lot," Osaka said after her win. "It's been a long time since I've had so much fun on the court, and to do it here really means a lot."
-
-Praising the home cooking of her mother, who was watching from the players' box, for inspiring her success over the last week, Osaka added: "She cooks a lot. I feel like her cooking is powering me."
-
-Sabalenka repeatedly banged the racquet against her head as Osaka took the set to a tie-break. She had won her last 21 tie-breaks at Grand Slams, but Osaka was unfazed, powering to victory with a flourish.
+Chinese railway engineers have pioneered numerous technologies for high-altitude rail construction, including specialized track systems that can withstand extreme temperature fluctuations and permafrost conditions. These innovations have attracted international interest from countries planning similar projects.
 
 ### 生词释义
 
 | 单词/短语 | 音标 | 词性 | 释义 |
 |-----------|------|------|------|
-| knock out | /nɒk aʊt/ | phr. | 淘汰，击败 |
-| top-seeded | /tɒp ˈsiːdɪd/ | adj. | 头号种子的 |
-| avenge | /əˈvendʒ/ | v. | 报复，为…报仇 |
-| straight-sets | /streɪt sets/ | adj. | 直落盘数的（未丢一盘） |
-| revitalise | /riːˈvaɪtəlaɪz/ | v. | 使恢复活力 |
-| momentum | /məˈmentəm/ | n. | 势头，动力 |
-| groove | /ɡruːv/ | n. | 状态，节奏（口语） |
-| haute couture | /əʊt kuːˈtjʊər/ | n. | 高级定制时装 |
-| in tatters | /ɪn ˈtætəz/ | phr. | 破碎的，支离破碎的 |
-| tailor-made | /ˌteɪləˈmeɪd/ | adj. | 量身定制的 |
-| unfazed | /ʌnˈfeɪzd/ | adj. | 不受影响的，镇定的 |
-| flourish | /ˈflʌrɪʃ/ | n. | 挥舞；华丽的动作 |
-| racquet | /ˈrækɪt/ | n. | 球拍 |
-| tie-break | /ˈtaɪ breɪk/ | n. | 抢七局 |
+| conquer | /ˈkɒŋkər/ | v. | 征服 |
+| milestone | /ˈmaɪlstəʊn/ | n. | 里程碑 |
+| altitude | /ˈæltɪtjuːd/ | n. | 海拔 |
+| geological | /ˌdʒiːəˈlɒdʒɪkl/ | adj. | 地质的 |
+| hostile | /ˈhɒstaɪl/ | adj. | 恶劣的 |
+| infrastructure | /ˈɪnfrəstrʌktʃər/ | n. | 基础设施 |
+| permafrost | /ˈpɜːməfrɒst/ | n. | 永久冻土 |
+| withstand | /wɪðˈstænd/ | v. | 承受，经受住 |
+| fluctuation | /ˌflʌktʃuˈeɪʃn/ | n. | 波动 |
+| pioneer | /ˌpaɪəˈnɪər/ | v. | 开创，先驱 |
 
 ---
 
-## 3. Russia Says Ukraine Rejects Local Ceasefire
+## 3. Chinese EVs Debut in Canada
 
-**Source:** Al Jazeera & Reuters | **Date:** July 5, 2026
+**Source:** CGTN | **Date:** July 6, 2026
 
-Russia's Defence Ministry is accusing Ukraine of refusing to halt the shelling of the eastern city of Kostiantynivka to allow Moscow to hand over the bodies of fallen Ukrainian soldiers.
+Chinese electric vehicles have entered the Canadian market for the first time, marking a significant milestone for China's automotive industry as it expands its global footprint.
 
-The ministry said on Sunday that it had proposed a six-hour ceasefire in and around Kostiantynivka on Monday to facilitate the handover and had given Kyiv until 0900 GMT on Sunday to respond.
+The entry into Canada comes as Chinese EV manufacturers have been rapidly gaining market share worldwide, driven by competitive pricing, advanced battery technology, and increasingly sophisticated designs.
 
-The Russian claim is the latest salvo in the verbal battle over Kostiantynivka. Russia said on Friday that its forces had taken control of the city, a target Moscow has long sought in its advance through the Donetsk region.
+Several Chinese brands are now offering a range of models in Canada, from affordable compact cars to premium SUVs. Industry analysts note that Chinese EVs typically offer more features at lower price points compared to established competitors.
 
-Ukraine denied the city had fallen, saying its forces remained in control.
+The move is part of a broader strategy by Chinese automakers to establish themselves in North American markets. Despite challenges including tariffs and regulatory requirements, Chinese manufacturers are confident in their ability to compete.
 
-"Of course, that is not true," President Volodymyr Zelenskyy said on X about the claim that Russian forces now controlled the city. "It is just another Russian lie, an attempt to generate some kind of a news story."
-
-"If Kostiantynivka were under Russian control, then perhaps Putin would have no problem meeting me there to find a diplomatic way to finally end this war," he added.
-
-On Russian radio, Kremlin spokesman Dmitry Peskov mocked Zelenskyy's suggested meeting, saying Kostiantynivka was already a part of Russia and the Kremlin's invitation for Zelenskyy to meet President Vladimir Putin in Moscow still stood.
-
-Elsewhere, one person was killed in a Ukrainian attack on Russian-occupied Crimea, Russian officials said in the early hours of Sunday.
-
-The latest attacks came after Zelenskyy and Putin spoke with Donald Trump on ending the war, now in its fifth year. The US president offered to help Putin find a solution to the war, Kremlin aide Yury Ushakov said.
-
-A senior US official confirmed that Trump would meet Zelenskyy on Wednesday to discuss "how we can end the war". "The battlefield has clearly frozen over the last couple of months and neither side is making a lot of progress," the official said.
+Chinese EV companies have invested heavily in research and development, particularly in battery technology where they hold significant advantages. The country dominates global battery production, controlling the majority of the supply chain from raw materials to finished cells.
 
 ### 生词释义
 
 | 单词/短语 | 音标 | 词性 | 释义 |
 |-----------|------|------|------|
-| ceasefire | /ˈsiːsfaɪər/ | n. | 停火 |
-| shell | /ʃel/ | v. | 炮击 |
-| facilitate | /fəˈsɪlɪteɪt/ | v. | 促进，使便利 |
-| handover | /ˈhændəʊvər/ | n. | 移交 |
-| salvo | /ˈsælvəʊ/ | n. | 齐射；（引申）一连串攻击 |
-| mock | /mɒk/ | v. | 嘲笑，嘲弄 |
-| diplomatic | /ˌdɪpləˈmætɪk/ | adj. | 外交的 |
-| occupation | /ˌɒkjuˈpeɪʃn/ | n. | 占领，占据 |
-| frozen | /ˈfrəʊzn/ | adj. | 冻结的；停滞的 |
-| aide | /eɪd/ | n. | 助手，助理 |
+| debut | /ˈdeɪbjuː/ | v./n. | 首次亮相 |
+| electric vehicle | /ɪˈlektrɪk ˈviːəkl/ | n. | 电动汽车 |
+| automotive | /ˌɔːtəˈməʊtɪv/ | adj. | 汽车的 |
+| footprint | /ˈfʊtprɪnt/ | n. | 足迹；市场覆盖 |
+| competitive | /kəmˈpetɪtɪv/ | adj. | 有竞争力的 |
+| sophisticated | /səˈfɪstɪkeɪtɪd/ | adj. | 精密的，复杂的 |
+| premium | /ˈpriːmiəm/ | adj. | 高端的 |
+| tariff | /ˈtærɪf/ | n. | 关税 |
+| regulatory | /ˈreɡjələtəri/ | adj. | 监管的 |
+| supply chain | /səˈplaɪ tʃeɪn/ | n. | 供应链 |
 
 ---
 
-## 4. Australia Thrash England to Win Women's T20 World Cup
+## 4. Record Downpours Hit Fushun, Leaving 3 Dead
 
-**Source:** Al Jazeera | **Date:** July 5, 2026
+**Source:** CGTN | **Date:** July 6, 2026
 
-Australia have crushed England by seven wickets in a one-sided final to land their seventh Women's T20 World Cup at a sold-out Lord's Cricket Ground in London.
+Fushun in northeastern China experienced unprecedented rainfall, resulting in three fatalities. The record-breaking downpours overwhelmed drainage systems and caused widespread flooding across the city.
 
-A sparkling second-wicket century partnership between Beth Mooney (64 runs) and Phoebe Litchfield (48 runs) helped Australia chase down a victory target of 151 with 17 balls to spare on Sunday.
+Chinese authorities intensified flood prevention measures as torrential rainfall struck the region. Emergency services were deployed to evacuate residents from low-lying areas and provide assistance to those affected by the flooding.
 
-Having beaten England 16-0 in the multi-format Ashes 18 months ago, Australia comprehensively outplayed their rivals again to claim the trophy.
+The extreme weather event is part of a broader pattern of heavy rainfall affecting southern and northeastern China. Climate scientists have noted that such intense precipitation events are becoming more frequent due to climate change.
 
-"That's the only way in T20 cricket – throw the first punch. We just tried to get the run rate down as fast as possible," said Litchfield, whose 48 came off just 35 balls.
+Rescue teams worked around the clock to reach stranded residents and deliver essential supplies. Local governments activated emergency response protocols and set up temporary shelters for displaced families.
 
-Mooney was named player of the tournament after her 64 from 49 balls for an Australia side who went through the tournament unbeaten.
-
-England's under-par total of 150-4 was built around an unbroken partnership of 80 between captain Nat Sciver-Brunt and Freya Kemp. Sciver-Brunt made 58 from 53 balls, with Kemp striking 44 from 28, including a straight six off Sophie Molineux in the final over, but they were starting from too far back after a sluggish start.
-
-Australia reduced England to 39-2 in the first six overs. Wicketkeeper Mooney took a superb tumbling catch down the leg side off the glove to remove the tournament's leading run scorer Danni Wyatt-Hodge for eight.
-
-Voll signalled Australia's intent by hitting the first ball from Charlie Dean to the boundary, and although the opener departed next over, Mooney and Litchfield flayed the England attack.
-
-Victory was confirmed with four wides from a wayward delivery by Ecclestone – a neat summation of England's day.
-
-"They [Australia] have led the way for years," said England coach Charlotte Edwards. "You have to be at your best to beat them, and we weren't."
+The flooding has caused significant damage to infrastructure, agriculture, and residential properties. Authorities are conducting damage assessments and planning recovery operations.
 
 ### 生词释义
 
 | 单词/短语 | 音标 | 词性 | 释义 |
 |-----------|------|------|------|
-| thrash | /θræʃ/ | v. | 大败，痛击 |
-| wicket | /ˈwɪkɪt/ | n. | （板球）三柱门；击球手出局 |
-| one-sided | /wʌn ˈsaɪdɪd/ | adj. | 一边倒的 |
-| sold-out | /səʊld aʊt/ | adj. | 售罄的，满座的 |
-| sparkling | /ˈspɑːklɪŋ/ | adj. | 闪耀的，出色的 |
-| partnership | /ˈpɑːtnəʃɪp/ | n. | （板球）搭档得分 |
-| chase down | /tʃeɪs daʊn/ | phr. | 追赶，追上 |
-| under-par | /ˌʌndəˈpɑːr/ | adj. | 低于标准的 |
-| sluggish | /ˈslʌɡɪʃ/ | adj. | 缓慢的，迟钝的 |
-| flay | /fleɪ/ | v. | 痛斥；这里指猛烈击球 |
-| wayward | /ˈweɪwəd/ | adj. | 任性的，不规则的 |
-| summation | /sʌˈmeɪʃn/ | n. | 总结，概括 |
+| downpour | /ˈdaʊnpɔːr/ | n. | 暴雨 |
+| unprecedented | /ʌnˈpresɪdentɪd/ | adj. | 史无前例的 |
+| fatality | /fəˈtæləti/ | n. | 死亡事故 |
+| overwhelm | /ˌəʊvəˈwelm/ | v. | 压倒，淹没 |
+| drainage | /ˈdreɪnɪdʒ/ | n. | 排水系统 |
+| torrential | /təˈrenʃl/ | adj. | 倾盆的 |
+| evacuate | /ɪˈvækjueɪt/ | v. | 疏散 |
+| stranded | /ˈstrændɪd/ | adj. | 被困的 |
+| precipitation | /prɪˌsɪpɪˈteɪʃn/ | n. | 降水 |
+| displaced | /dɪsˈpleɪst/ | adj. | 流离失所的 |
 
 ---
 
-## 5. Cameroon's Fight to Register Every Child
+## 5. Chinese Chip Cuts Brain Modeling Latency to Milliseconds
 
-**Source:** Al Jazeera | **Date:** July 5, 2026
+**Source:** CGTN | **Date:** July 6, 2026
 
-A year ago, Oumarou Sanda, mayor of Garoua 2 in northern Cameroon, raised a trophy above his head after his municipality was named Cameroon's Citizenship Champion for its efforts to expand birth registration.
+A Chinese-developed chip has achieved a breakthrough in brain modeling technology, reducing latency down to the millisecond range. This advancement represents a significant leap forward in neuromorphic computing.
 
-The recognition, awarded through UNICEF-supported initiatives in partnership with the Cameroonian government, marked months of work to address one of the country's most persistent but often invisible child protection gaps: the absence of legal identity for thousands of children.
+The chip mimics the way the human brain processes information, using artificial neurons and synapses to perform calculations. By dramatically reducing the time it takes to simulate neural activity, the technology opens new possibilities for real-time brain-computer interfaces.
 
-Under Cameroon's civil status law, every child has the right to a birth certificate. Parents are expected to register births within 90 days at no cost. After that period, registration becomes more complex, and after one year, families must go through court procedures that are often costly, time-consuming, and difficult to navigate.
+Researchers say the chip could be applied in various fields including medical diagnostics, robotics, and artificial intelligence. The millisecond-level latency makes it possible to create responsive brain-machine systems that can react almost instantaneously to neural signals.
 
-For many parents, that system remains out of reach.
+China has been investing heavily in semiconductor technology as part of its broader strategy to achieve self-sufficiency in critical technologies. This breakthrough demonstrates the country's growing capabilities in advanced chip design.
 
-"One of my eldest children was sent home years ago from school because we didn't have his official papers," says Aissatou Bouba, a mother of four living in Garoua 2.
-
-That changed in 2024 when she brought her youngest child to a local health facility where staff registered the birth immediately after delivery, issuing the documents needed to establish his legal identity.
-
-According to Cameroon's Ministry of Basic Education, more than 1.5 million children, about 30 percent of primary school pupils, are enrolled without birth certificates.
-
-Without that documentation, the consequences often emerge later in life. "If a child stays without a birth certificate, the child will not have admission into secondary school," says Anna Enanga epse Itoe, head of the civil status bureau at the Tiko Council.
-
-UNICEF estimates that, of the 560,000 births recorded in health facilities in 2023, only 43.77 percent were officially registered.
-
-"Children without documentation are harder to trace, monitor, or protect," says Alexis Mayang, a UNICEF child protection specialist. "They can be moved across borders with fewer checks."
-
-Since its launch, officials involved in the programme say more than 17,000 children have been registered.
-
-Globally, UNICEF estimates that 166 million children under the age of five remain unregistered. In Cameroon, officials say closing that gap will depend not only on administrative reform, but also on shifting how communities define a child's legal existence.
+The development is particularly significant given the global competition in AI chip technology. Chinese companies and research institutions have been making rapid progress in developing specialized processors for AI applications.
 
 ### 生词释义
 
 | 单词/短语 | 音标 | 词性 | 释义 |
 |-----------|------|------|------|
-| birth registration | /bɜːθ ˌredʒɪˈstreɪʃn/ | n. | 出生登记 |
-| municipality | /mjuːˌnɪsɪˈpæləti/ | n. | 市政当局，自治市 |
-| citizenship | /ˈsɪtɪznʃɪp/ | n. | 公民身份 |
-| initiative | /ɪˈnɪʃətɪv/ | n. | 倡议，新方案 |
-| persistent | /pəˈsɪstənt/ | adj. | 持续的，顽固的 |
-| invisible | /ɪnˈvɪzəbl/ | adj. | 看不见的，隐形的 |
-| civil status | /ˈsɪvl ˈsteɪtəs/ | n. | 民事身份（出生、婚姻等） |
-| birth certificate | /bɜːθ sərˈtɪfɪkət/ | n. | 出生证明 |
-| time-consuming | /taɪm kənˈsjuːmɪŋ/ | adj. | 耗时的 |
-| navigate | /ˈnævɪɡeɪt/ | v. | 导航；应对，处理 |
-| documentation | /ˌdɒkjumenˈteɪʃn/ | n. | 文件，证件 |
-| enrollment | /ɪnˈrəʊlmənt/ | n. | 入学，注册 |
-| administrative | /ədˈmɪnɪstrətɪv/ | adj. | 行政的，管理的 |
-| reform | /rɪˈfɔːm/ | n./v. | 改革 |
+| chip | /tʃɪp/ | n. | 芯片 |
+| latency | /ˈleɪtənsi/ | n. | 延迟 |
+| breakthrough | /ˈbreɪkθruː/ | n. | 突破 |
+| neuromorphic | /ˌnjʊərəˈmɔːfɪk/ | adj. | 神经形态的 |
+| neuron | /ˈnjʊərɒn/ | n. | 神经元 |
+| synapse | /ˈsɪnæps/ | n. | 突触 |
+| simulate | /ˈsɪmjuleɪt/ | v. | 模拟 |
+| instantaneous | /ˌɪnstənˈteɪniəs/ | adj. | 瞬间的 |
+| semiconductor | /ˌsemikənˈdʌktər/ | n. | 半导体 |
+| self-sufficiency | /self səˈfɪʃnsi/ | n. | 自给自足 |
 
 ---
 
-## 6. Thunderstorms Hamper Colorado Wildfire Efforts
+## 6. China Launches New Satellite Group for Qianfan Constellation
 
-**Source:** NPR | **Date:** July 5, 2026
+**Source:** CGTN | **Date:** July 6, 2026
 
-Storms with high winds could make containing a massive southern Colorado wildfire more difficult. Thunderstorms, extreme heat, and strong winds are expected to challenge firefighting crews working to control the blaze.
+China successfully launched a new batch of satellites as part of the expanding Qianfan constellation, further strengthening the country's space-based internet infrastructure.
 
-The wildfire has already consumed thousands of acres and forced evacuations in nearby communities. Firefighters are working around the clock to establish containment lines, but the unpredictable weather conditions are making their job significantly harder.
+The Qianfan constellation, also known as the G60 Starlink equivalent, aims to provide global broadband internet coverage through a network of low-Earth orbit satellites. The project is part of China's ambitious plan to establish its own satellite internet system.
 
-Officials warn that the combination of dry conditions, high temperatures, and gusty winds creates a dangerous environment for new fires to spark and existing ones to spread rapidly.
+The latest launch adds to the growing constellation, bringing the total number of satellites in orbit closer to the target needed for initial service coverage. Each launch batch progressively expands the network's capacity and geographic reach.
+
+The constellation will provide high-speed internet access to remote and underserved areas where traditional broadband infrastructure is difficult or impossible to deploy. This includes rural communities, maritime regions, and areas affected by natural disasters.
+
+China's space program has been accelerating its launch cadence, with multiple missions conducted each month. The country aims to become a major player in the global satellite communications market.
 
 ### 生词释义
 
 | 单词/短语 | 音标 | 词性 | 释义 |
 |-----------|------|------|------|
-| hamper | /ˈhæmpər/ | v. | 阻碍，妨碍 |
-| wildfire | /ˈwaɪldfaɪər/ | n. | 野火，山火 |
-| contain | /kənˈteɪn/ | v. | 控制，遏制 |
-| massive | /ˈmæsɪv/ | adj. | 大规模的，巨大的 |
-| blaze | /bleɪz/ | n. | 大火 |
-| consume | /kənˈsjuːm/ | v. | 消耗；吞噬 |
-| evacuation | /ɪˌvækjuˈeɪʃn/ | n. | 疏散，撤离 |
-| containment | /kənˈteɪnmənt/ | n. | 控制，围堵 |
-| unpredictable | /ˌʌnprɪˈdɪktəbl/ | adj. | 不可预测的 |
-| gusty | /ˈɡʌsti/ | adj. | 阵风的 |
-| spark | /spɑːk/ | v. | 引发，触发 |
+| constellation | /ˌkɒnstəˈleɪʃn/ | n. | 星座；卫星群 |
+| satellite | /ˈsætəlaɪt/ | n. | 卫星 |
+| broadband | /ˈbrɔːdbænd/ | n. | 宽带 |
+| orbit | /ˈɔːbɪt/ | n./v. | 轨道；绕轨道运行 |
+| infrastructure | /ˈɪnfrəstrʌktʃər/ | n. | 基础设施 |
+| maritime | /ˈmærɪtaɪm/ | adj. | 海上的 |
+| underserved | /ˌʌndəˈsɜːvd/ | adj. | 服务不足的 |
+| deploy | /dɪˈplɔɪ/ | v. | 部署 |
+| cadence | /ˈkeɪdns/ | n. | 节奏，频率 |
+| coverage | /ˈkʌvərɪdʒ/ | n. | 覆盖范围 |
 
 ---
 
-## 7. Taylor Swift and Travis Kelce Wed in New York
+## 7. New Policies to Better Protect Gig Workers
 
-**Source:** NPR | **Date:** July 5, 2026
+**Source:** China Daily | **Date:** July 6, 2026
 
-Guests were seen arriving at Madison Square Garden for what appeared to be the wedding celebration of pop superstar Taylor Swift and NFL player Travis Kelce.
+China has introduced new labor policies aimed at improving protections and benefits for workers in the gig economy. The proposed legal amendments would provide stronger safeguards for millions of workers who operate outside traditional employment structures.
 
-The couple, who have been dating since 2023, reportedly tied the knot in a private ceremony in New York City. The event drew massive attention from fans and media worldwide.
+The gig economy has grown rapidly in China, with millions of people working as delivery drivers, ride-hailing drivers, and freelance workers through digital platforms. However, many of these workers lack basic protections such as health insurance, injury compensation, and retirement benefits.
 
-Swift, one of the best-selling music artists of all time, and Kelce, a three-time Super Bowl champion with the Kansas City Chiefs, have become one of the most high-profile couples in entertainment and sports.
+The new policies would require platform companies to provide certain minimum protections to their workers, including accident insurance and access to dispute resolution mechanisms. The amendments also address issues of algorithmic management and excessive working hours.
 
-The wedding comes after months of speculation about when the pair would officially marry. Neither Swift nor Kelce has publicly confirmed the news, but multiple sources close to the couple have verified the event took place.
+Government officials emphasized that the policies aim to balance the flexibility that attracts workers to gig work with the need for adequate social protections. The reforms reflect China's broader efforts to modernize its labor laws for the digital age.
+
+Industry observers note that China's approach to regulating the gig economy could serve as a model for other countries grappling with similar challenges in the evolving labor market.
 
 ### 生词释义
 
 | 单词/短语 | 音标 | 词性 | 释义 |
 |-----------|------|------|------|
-| wed | /wed/ | v. | 结婚 |
-| tie the knot | /taɪ ðə nɒt/ | phr. | 结婚（口语） |
-| ceremony | /ˈserɪməni/ | n. | 仪式，典礼 |
-| high-profile | /haɪ ˈprəʊfaɪl/ | adj. | 高调的，备受关注的 |
-| speculation | /ˌspekjuˈleɪʃn/ | n. | 推测，猜测 |
-| verify | /ˈverɪfaɪ/ | v. | 证实，核实 |
-| reportedly | /rɪˈpɔːtɪdli/ | adv. | 据报道 |
-| entertainment | /ˌentəˈteɪnmənt/ | n. | 娱乐 |
+| gig economy | /ɡɪɡ ɪˈkɒnəmi/ | n. | 零工经济 |
+| amendment | /əˈmendmənt/ | n. | 修正案 |
+| safeguard | /ˈseɪfɡɑːd/ | n. | 保障措施 |
+| freelance | /ˈfriːlɑːns/ | adj. | 自由职业的 |
+| compensation | /ˌkɒmpenˈseɪʃn/ | n. | 赔偿 |
+| algorithmic | /ˌælɡəˈrɪðmɪk/ | adj. | 算法的 |
+| dispute resolution | /dɪˈspjuːt ˌrezəˈluːʃn/ | n. | 争议解决 |
+| excessive | /ɪkˈsesɪv/ | adj. | 过度的 |
+| flexibility | /ˌfleksəˈbɪləti/ | n. | 灵活性 |
+| modernize | /ˈmɒdənaɪz/ | v. | 使现代化 |
 
 ---
 
-## 8. Iran Prepares for Khamenei's Funeral
+## 8. Matcha Boom Turns Guizhou Tea Into a New Era
 
-**Source:** NPR & Al Jazeera | **Date:** July 5, 2026
+**Source:** China Daily | **Date:** July 6, 2026
 
-Dayslong funeral ceremonies for slain Supreme Leader Ayatollah Ali Khamenei have begun in Tehran. Khamenei, who ruled Iran for over three decades, was killed in an airstrike on February 28.
+Guizhou's matcha industry is booming, transforming the province's tea production into a globally competitive enterprise. The southwestern province has leveraged its ideal growing conditions to become a major player in the international matcha market.
 
-Iran's theocracy hopes millions will flood Tehran's streets for the funeral ceremonies. The event is being closely watched for political signals about the country's future leadership.
+The matcha boom has created new economic opportunities for farmers and businesses in Guizhou, which has traditionally been one of China's less developed provinces. Tea plantations have expanded significantly, and new processing facilities have been built to meet growing demand.
 
-Khamenei's sons attended the funeral, but notably, Mojtaba Khamenei — widely seen as a potential successor — was absent, sparking speculation about internal power dynamics within Iran's leadership.
+Guizhou's high altitude, clean environment, and favorable climate provide ideal conditions for growing high-quality tea leaves used in matcha production. These natural advantages have helped the province establish a reputation for premium matcha products.
 
-The funeral comes at a sensitive time for Iran, which has been engaged in regional conflicts and faces ongoing international pressure over its nuclear program.
+The industry has attracted significant investment from both domestic and international companies. Several global food and beverage brands have begun sourcing matcha from Guizhou for use in their products.
+
+Local governments have supported the industry's growth through favorable policies, infrastructure development, and training programs for farmers. The matcha sector is now seen as a key driver of rural economic development in the province.
 
 ### 生词释义
 
 | 单词/短语 | 音标 | 词性 | 释义 |
 |-----------|------|------|------|
-| slain | /sleɪn/ | adj. | 被杀害的 |
-| supreme leader | /suːˈpriːm ˈliːdər/ | n. | 最高领袖 |
-| theocracy | /θiˈɒkrəsi/ | n. | 神权政治 |
-| successor | /səkˈsesər/ | n. | 继任者 |
-| speculation | /ˌspekjuˈleɪʃn/ | n. | 推测，猜测 |
-| dynamics | /daɪˈnæmɪks/ | n. | 动态，动力学 |
-| sensitive | /ˈsensɪtɪv/ | adj. | 敏感的，微妙的 |
-| nuclear program | /ˈnjuːkliər ˈprəʊɡræm/ | n. | 核计划 |
+| boom | /buːm/ | n. | 繁荣 |
+| competitive | /kəmˈpetɪtɪv/ | adj. | 有竞争力的 |
+| leverage | /ˈliːvərɪdʒ/ | v. | 利用 |
+| plantation | /plɑːnˈteɪʃn/ | n. | 种植园 |
+| facility | /fəˈsɪləti/ | n. | 设施 |
+| premium | /ˈpriːmiəm/ | adj. | 优质的 |
+| domestic | /dəˈmestɪk/ | adj. | 国内的 |
+| source | /sɔːs/ | v. | 采购 |
+| favorable | /ˈfeɪvərəbl/ | adj. | 有利的 |
+| rural | /ˈrʊərəl/ | adj. | 农村的 |
 
 ---
 
-## 9. Neymar Quits International Football
+## 9. Jurassic Fossil Fills Gap in Evolution of Bird Tails
 
-**Source:** Al Jazeera | **Date:** July 5, 2026
+**Source:** China Daily | **Date:** July 6, 2026
 
-Brazilian superstar Neymar has announced his retirement from international football following Brazil's shocking elimination from the World Cup at the hands of Norway.
+A newly discovered Jurassic-era fossil found in China has helped fill an important evolutionary gap in understanding how bird tails developed over millions of years.
 
-The 34-year-old, who is Brazil's all-time leading scorer, made the announcement after the 2-1 defeat in the last 16. Neymar had pulled a goal back with a penalty deep into stoppage time, but it was not enough to save the five-time champions.
+The fossil, discovered in northeastern China, provides crucial evidence about the transition from long, bony dinosaur tails to the short, fused tail bones (pygostyles) seen in modern birds. Scientists say the specimen represents a previously unknown intermediate stage in this evolutionary process.
 
-"It ends here," Neymar said in an emotional post-match statement. "I gave everything for this shirt, but the time has come to step aside for the next generation."
+The discovery was made by a team of paleontologists from Chinese universities who have been conducting systematic excavations in fossil-rich regions of Liaoning province. The area has previously yielded numerous important feathered dinosaur and early bird fossils.
 
-Neymar's international career spanned over 15 years, during which he scored 79 goals in 128 appearances for Brazil. He was part of the squad that won the 2013 Confederations Cup but never managed to lift the World Cup trophy.
+The specimen shows a unique combination of features that bridge the gap between earlier theropod dinosaurs and more advanced birds. Its tail structure suggests it was adapted for both terrestrial locomotion and early forms of flight.
 
-The decision came after Brazil's earliest World Cup exit since 1990, having been knocked out by European opposition for the sixth consecutive tournament.
+This finding adds to China's growing reputation as one of the world's most important regions for understanding avian evolution. Chinese fossils have repeatedly provided key evidence for understanding how dinosaurs evolved into birds.
 
 ### 生词释义
 
 | 单词/短语 | 音标 | 词性 | 释义 |
 |-----------|------|------|------|
-| quit | /kwɪt/ | v. | 退出，放弃 |
-| retirement | /rɪˈtaɪərmənt/ | n. | 退役，退休 |
-| elimination | /ɪˌlɪmɪˈneɪʃn/ | n. | 淘汰 |
-| all-time | /ɔːl taɪm/ | adj. | 有史以来的 |
-| appearance | /əˈpɪərəns/ | n. | 出场（比赛） |
-| span | /spæn/ | v. | 持续，跨越 |
-| squad | /skwɒd/ | n. | 球队阵容 |
-| consecutive | /kənˈsekjʊtɪv/ | adj. | 连续的 |
-| step aside | /step əˈsaɪd/ | phr. | 退位，让位 |
-| generation | /ˌdʒenəˈreɪʃn/ | n. | 一代人 |
+| Jurassic | /dʒɜːˈsæsɪk/ | adj. | 侏罗纪的 |
+| fossil | /ˈfɒsl/ | n. | 化石 |
+| evolution | /ˌiːvəˈluːʃn/ | n. | 进化 |
+| evolutionary | /ˌiːvəˈluːʃənəri/ | adj. | 进化的 |
+| pygostyle | /ˈpaɪɡəstaɪl/ | n. | 尾综骨 |
+| paleontologist | /ˌpæliɒnˈtɒlədʒɪst/ | n. | 古生物学家 |
+| excavation | /ˌekskəˈveɪʃn/ | n. | 发掘 |
+| theropod | /ˈθɪərəpɒd/ | n. | 兽脚类恐龙 |
+| terrestrial | /təˈrestriəl/ | adj. | 陆地的 |
+| avian | /ˈeɪviən/ | adj. | 鸟类的 |
 
 ---
 
-## 10. How to Win a Penalty Shootout with Game Theory
+## 10. How China Is Using Drones to Protect Cotton Crops from Extreme Heat
 
-**Source:** NPR | **Date:** July 5, 2026
+**Source:** CGTN | **Date:** July 6, 2026
 
-Despite being one of soccer's greatest scorers, Lionel Messi is merely average at penalty kicks — and game theory may explain why.
+Drone technology is being deployed across China to shield cotton crops from damage caused by extreme heat conditions. The innovative approach represents a new frontier in precision agriculture.
 
-Researchers have applied principles from game theory — the mathematical study of strategic decision-making — to analyze penalty shootouts in professional football. Their findings suggest that the best penalty takers are not necessarily the most skilled players, but those who make the most unpredictable choices.
+As temperatures continue to rise due to climate change, traditional farming methods are becoming increasingly insufficient to protect crops from heat stress. Drones offer a solution by enabling farmers to apply protective treatments quickly and efficiently over large areas.
 
-In a penalty shootout, both the kicker and the goalkeeper must decide simultaneously where to dive or kick. Game theory predicts that the optimal strategy is to randomize your choices — sometimes kicking left, sometimes right, sometimes center — in proportions that keep the opponent guessing.
+The drones are equipped with specialized spraying systems that can distribute heat-resistant compounds and nutrients directly to cotton plants. This targeted approach is more efficient than conventional methods and reduces waste.
 
-Messi, despite his extraordinary talent, tends to be more predictable in his penalty patterns, which gives goalkeepers a statistical edge. The research shows that players who vary their placement randomly, even if they are less technically gifted, often have higher success rates.
+Chinese agricultural technology companies have developed sophisticated drone systems that use artificial intelligence to identify areas of crops most at risk from heat damage. The drones can then prioritize these areas for treatment.
 
-The study also found that goalkeepers who dive to the kicker's dominant side more often perform better, contradicting the common advice to "pick a side and commit."
-
-These insights have practical applications beyond football. Game theory principles apply to any competitive situation where two parties must make simultaneous decisions without knowing the other's choice — from business negotiations to military strategy.
+The technology has been particularly valuable in Xinjiang, China's largest cotton-producing region, where extreme summer temperatures can significantly impact crop yields. Early results show that drone-assisted treatments can reduce heat-related crop losses by up to 30 percent.
 
 ### 生词释义
 
 | 单词/短语 | 音标 | 词性 | 释义 |
 |-----------|------|------|------|
-| penalty shootout | /ˈpenəlti ˈʃuːtaʊt/ | n. | 点球大战 |
-| game theory | /ɡeɪm ˈθɪəri/ | n. | 博弈论 |
-| strategic | /strəˈtiːdʒɪk/ | adj. | 战略的 |
-| simultaneously | /ˌsɪmlˈteɪniəsli/ | adv. | 同时地 |
-| optimal | /ˈɒptɪml/ | adj. | 最佳的 |
-| randomize | /ˈrændəmaɪz/ | v. | 随机化 |
-| unpredictable | /ˌʌnprɪˈdɪktəbl/ | adj. | 不可预测的 |
-| contradict | /ˌkɒntrəˈdɪkt/ | v. | 反驳，与…矛盾 |
-| dominant | /ˈdɒmɪnənt/ | adj. | 主导的，占优势的 |
-| negotiation | /nɪˌɡəʊʃiˈeɪʃn/ | n. | 谈判，协商 |
-| application | /ˌæplɪˈkeɪʃn/ | n. | 应用 |
-| commit | /kəˈmɪt/ | v. | 承诺，投入 |
+| drone | /drəʊn/ | n. | 无人机 |
+| deploy | /dɪˈplɔɪ/ | v. | 部署 |
+| shield | /ʃiːld/ | v. | 保护 |
+| precision agriculture | /prɪˈsɪʒn ˈæɡrɪkʌltʃər/ | n. | 精准农业 |
+| heat stress | /hiːt stres/ | n. | 热胁迫 |
+| compound | /ˈkɒmpaʊnd/ | n. | 化合物 |
+| nutrient | /ˈnjuːtriənt/ | n. | 营养物质 |
+| targeted | /ˈtɑːɡɪtɪd/ | adj. | 定向的 |
+| prioritize | /praɪˈɒrətaɪz/ | v. | 优先处理 |
+| yield | /jiːld/ | n. | 产量 |
 
 ---
 
@@ -411,6 +347,6 @@ These insights have practical applications beyond football. Game theory principl
 1. **精读**：选择2-3篇文章仔细阅读，查清每个不认识的单词
 2. **泛读**：快速浏览其余文章，把握大意
 3. **复习**：回顾生词表，尝试用新学的单词造句
-4. **听力**：可以在网上搜索相关视频新闻，练习听力
+4. **拓展**：尝试用英文复述一篇新闻的主要内容
 
-> 提示：坚持每天阅读英文新闻是提高英语水平最有效的方法之一！
+> 提示：阅读中国相关的英文新闻，既能学英语，又能了解国际上如何看待中国！
