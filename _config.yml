@@ -14,7 +14,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://5fu8.com
+url: https://jiangzuogege-source.github.io/learn-english-blog
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -87,7 +87,10 @@ theme: hexo-theme-matery
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-
+  type: git
+  repo: https://github.com/jiangzuogege-source/learn-english-blog.git
+  branch: gh-pages
+  message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
 
 feed: # RSS订阅插件
   type: atom
